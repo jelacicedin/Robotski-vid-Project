@@ -1,0 +1,2298 @@
+fileFormatVersion: 2
+guid: 9a3f010af2b40c14a987dcc27168a06c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 2 TERMINAL CONNECTOR .25 SPACING
+    100002: 2 TERMINAL CONNECTOR .25 SPACING:1
+    100004: 2 TERMINAL CONNECTOR .25 SPACING:2
+    100006: 2 TERMINAL CONNECTOR .4 SPACING
+    100008: 2 TERMINAL CONNECTOR .4 SPACING:1
+    100010: 24V PSU
+    100012: 3 TERMINAL CONNECTOR .375 SPACING
+    100014: 6 TERMINAL CONNECTOR .25 SPACING
+    100016: 8-32 x .250 PHL PAN HD
+    100018: 8-32 x .250 PHL PAN HD:1
+    100020: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1
+    100022: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 1
+    100024: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 10
+    100026: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 11
+    100028: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 12
+    100030: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 13
+    100032: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 14
+    100034: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 2
+    100036: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 3
+    100038: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 4
+    100040: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 5
+    100042: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 6
+    100044: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 7
+    100046: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 8
+    100048: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 9
+    100050: AH 8 PRITRDILEC FATH:1
+    100052: AH 8 PRITRDILEC FATH:1 1
+    100054: AH 8 PRITRDILEC FATH:1 2
+    100056: AH 8 PRITRDILEC FATH:10
+    100058: AH 8 PRITRDILEC FATH:10 1
+    100060: AH 8 PRITRDILEC FATH:10 2
+    100062: AH 8 PRITRDILEC FATH:11
+    100064: AH 8 PRITRDILEC FATH:11 1
+    100066: AH 8 PRITRDILEC FATH:11 2
+    100068: AH 8 PRITRDILEC FATH:12
+    100070: AH 8 PRITRDILEC FATH:12 1
+    100072: AH 8 PRITRDILEC FATH:12 2
+    100074: AH 8 PRITRDILEC FATH:13
+    100076: AH 8 PRITRDILEC FATH:13 1
+    100078: AH 8 PRITRDILEC FATH:13 2
+    100080: AH 8 PRITRDILEC FATH:14
+    100082: AH 8 PRITRDILEC FATH:14 1
+    100084: AH 8 PRITRDILEC FATH:14 2
+    100086: AH 8 PRITRDILEC FATH:15
+    100088: AH 8 PRITRDILEC FATH:15 1
+    100090: AH 8 PRITRDILEC FATH:15 2
+    100092: AH 8 PRITRDILEC FATH:16
+    100094: AH 8 PRITRDILEC FATH:16 1
+    100096: AH 8 PRITRDILEC FATH:16 2
+    100098: AH 8 PRITRDILEC FATH:17
+    100100: AH 8 PRITRDILEC FATH:17 1
+    100102: AH 8 PRITRDILEC FATH:17 2
+    100104: AH 8 PRITRDILEC FATH:18
+    100106: AH 8 PRITRDILEC FATH:18 1
+    100108: AH 8 PRITRDILEC FATH:18 2
+    100110: AH 8 PRITRDILEC FATH:19
+    100112: AH 8 PRITRDILEC FATH:19 1
+    100114: AH 8 PRITRDILEC FATH:19 2
+    100116: AH 8 PRITRDILEC FATH:2
+    100118: AH 8 PRITRDILEC FATH:2 1
+    100120: AH 8 PRITRDILEC FATH:2 2
+    100122: AH 8 PRITRDILEC FATH:20
+    100124: AH 8 PRITRDILEC FATH:20 1
+    100126: AH 8 PRITRDILEC FATH:20 2
+    100128: AH 8 PRITRDILEC FATH:21
+    100130: AH 8 PRITRDILEC FATH:21 1
+    100132: AH 8 PRITRDILEC FATH:21 2
+    100134: AH 8 PRITRDILEC FATH:3
+    100136: AH 8 PRITRDILEC FATH:3 1
+    100138: AH 8 PRITRDILEC FATH:3 2
+    100140: AH 8 PRITRDILEC FATH:4
+    100142: AH 8 PRITRDILEC FATH:4 1
+    100144: AH 8 PRITRDILEC FATH:4 2
+    100146: AH 8 PRITRDILEC FATH:5
+    100148: AH 8 PRITRDILEC FATH:5 1
+    100150: AH 8 PRITRDILEC FATH:5 2
+    100152: AH 8 PRITRDILEC FATH:6
+    100154: AH 8 PRITRDILEC FATH:6 1
+    100156: AH 8 PRITRDILEC FATH:6 2
+    100158: AH 8 PRITRDILEC FATH:7
+    100160: AH 8 PRITRDILEC FATH:7 1
+    100162: AH 8 PRITRDILEC FATH:7 2
+    100164: AH 8 PRITRDILEC FATH:8
+    100166: AH 8 PRITRDILEC FATH:8 1
+    100168: AH 8 PRITRDILEC FATH:8 2
+    100170: AH 8 PRITRDILEC FATH:9
+    100172: AH 8 PRITRDILEC FATH:9 1
+    100174: AH 8 PRITRDILEC FATH:9 2
+    100176: ALU_plosca_508x460x3mm:1
+    100178: ALU_plosca_650x740x3mm:1
+    100180: ALU_profil_22,5_X_180_900:1
+    100182: ALU_profil_22,5_X_180_R40_L_900_L:1
+    100184: ALU_profil_22,5_X_180_R40_L_900_R:1
+    100186: ALU_profil_40_ X_40_L_200:1
+    100188: ALU_profil_40_ X_40_L_200:2
+    100190: ALU_profil_40_ X_40_L_200:3
+    100192: ALU_profil_40_ X_40_L_200:4
+    100194: ALU_profil_40_ X_40_L_200:5
+    100196: ALU_profil_40_ X_40_L_200:6
+    100198: ALU_profil_40_ X_40_L_600:1
+    100200: ALU_profil_40_ X_40_L_600:2
+    100202: ALU_profil_40_X_160_N_460:1
+    100204: ALU_profil_40_X_160_N_460:2
+    100206: ALU_profil_40_X_40_L_1N_460:1
+    100208: ALU_profil_40_X_40_L_1N_460:2
+    100210: ALU_profil_40_X_80_L_340:1
+    100212: ALU_profil_40_X_80_L_340:2
+    100214: ALU_profil_40_X_80_L_340:3
+    100216: ALU_profil_40_X_80_L_340:4
+    100218: ALU_profil_40_X_80_L_460:1
+    100220: ALU_profil_40_X_80_L_740:1
+    100222: ALU_profil_40_X_80_L_740:2
+    100224: ALU_profil_40_X_80_L_820:1
+    100226: ALU_profil_40_X_80_L_820:2
+    100228: "ALU_profil_polkrozni_40_R80_90\xB0_730:1"
+    100230: "ALU_profil_polkrozni_40_R80_90\xB0_730:2"
+    100232: "ALU_profil_polkrozni_40_R80_90\xB0_730:3"
+    100234: "ALU_profil_polkrozni_40_R80_90\xB0_730:4"
+    100236: AM8113-xx11:3
+    100238: AM8113-xx11:4
+    100240: AM8113-xx11:5
+    100242: AM8113-xx11:6
+    100244: BA_J1_adapted_Standard_1
+    100246: BA_J1_adapted_Standard_1 1
+    100248: BA_J1_adapted_Standard_1 10
+    100250: BA_J1_adapted_Standard_1 11
+    100252: BA_J1_adapted_Standard_1 12
+    100254: BA_J1_adapted_Standard_1 13
+    100256: BA_J1_adapted_Standard_1 14
+    100258: BA_J1_adapted_Standard_1 15
+    100260: BA_J1_adapted_Standard_1 16
+    100262: BA_J1_adapted_Standard_1 17
+    100264: BA_J1_adapted_Standard_1 18
+    100266: BA_J1_adapted_Standard_1 19
+    100268: BA_J1_adapted_Standard_1 2
+    100270: BA_J1_adapted_Standard_1 20
+    100272: BA_J1_adapted_Standard_1 21
+    100274: BA_J1_adapted_Standard_1 22
+    100276: BA_J1_adapted_Standard_1 23
+    100278: BA_J1_adapted_Standard_1 24
+    100280: BA_J1_adapted_Standard_1 25
+    100282: BA_J1_adapted_Standard_1 26
+    100284: BA_J1_adapted_Standard_1 27
+    100286: BA_J1_adapted_Standard_1 28
+    100288: BA_J1_adapted_Standard_1 29
+    100290: BA_J1_adapted_Standard_1 3
+    100292: BA_J1_adapted_Standard_1 30
+    100294: BA_J1_adapted_Standard_1 31
+    100296: BA_J1_adapted_Standard_1 32
+    100298: BA_J1_adapted_Standard_1 33
+    100300: BA_J1_adapted_Standard_1 34
+    100302: BA_J1_adapted_Standard_1 35
+    100304: BA_J1_adapted_Standard_1 36
+    100306: BA_J1_adapted_Standard_1 37
+    100308: BA_J1_adapted_Standard_1 4
+    100310: BA_J1_adapted_Standard_1 5
+    100312: BA_J1_adapted_Standard_1 6
+    100314: BA_J1_adapted_Standard_1 7
+    100316: BA_J1_adapted_Standard_1 8
+    100318: BA_J1_adapted_Standard_1 9
+    100320: Battery assembly
+    100322: battery:1
+    100324: Beckhoff_WPLE40:1
+    100326: Beckhoff_WPLE40:2
+    100328: Beckhoff_WPLE40:3
+    100330: Beckhoff_WPLE40:4
+    100332: blade_12_4
+    100334: blade_12_4 1
+    100336: blade_12_4 2
+    100338: blade_12_5
+    100340: blade_12_5 1
+    100342: blade_12_5 2
+    100344: blade_15_3
+    100346: blade_15_3 1
+    100348: blade_15_3 2
+    100350: BM040-VM_00:1
+    100352: BM040-VM_00:1 1
+    100354: BM040-VM_00:1 2
+    100356: BM040-VM_00:1 3
+    100358: BOSCH_REXROTH_PROFILE_20X20_6MM_T-SLOT-short:1
+    100360: BOSCH_REXROTH_PROFILE_20X20_6MM_T-SLOT-short:2
+    100362: BOSCH_REXROTH_PROFILE_20X20_6MM_T-SLOT:1
+    100364: BOSCH_REXROTH_PROFILE_20X20_6MM_T-SLOT:2
+    100366: Cable channels
+    100368: Control panel assembly
+    100370: correct_big_tab_12
+    100372: correct_big_tab_13
+    100374: correct_big_tab_14
+    100376: CX5130-40:1
+    100378: CX5130-40:1 1
+    100380: CX5130-40:1 2
+    100382: DIN 6885-A3x3x12:1
+    100384: DIN 6885-A3x3x12:1 1
+    100386: DIN 6885-A3x3x12:1 2
+    100388: DIN 6885-A3x3x12:1 3
+    100390: DIN RAIL CLAMP
+    100392: DIN rails
+    100394: DIN SIN_WEIDMULLER_(360mm)-3:1
+    100396: DIN SIN_WEIDMULLER_(460mm):1
+    100398: dodatni_sklep:1
+    100400: DPP480-48-1
+    100402: E Stop Button:1
+    100404: E Stop Button:1 1
+    100406: E Stop Button:1 2
+    100408: E Stop Button:1 3
+    100410: E-omarica-pokrovcek:1
+    100412: E-omarica-pokrovcek:10
+    100414: E-omarica-pokrovcek:11
+    100416: E-omarica-pokrovcek:12
+    100418: E-omarica-pokrovcek:13
+    100420: E-omarica-pokrovcek:14
+    100422: E-omarica-pokrovcek:15
+    100424: E-omarica-pokrovcek:2
+    100426: E-omarica-pokrovcek:3
+    100428: E-omarica-pokrovcek:4
+    100430: E-omarica-pokrovcek:5
+    100432: E-omarica-pokrovcek:6
+    100434: E-omarica-pokrovcek:7
+    100436: E-omarica-pokrovcek:8
+    100438: E-omarica-pokrovcek:9
+    100440: E_omarica:1
+    100442: Earth Leakage Circuit Breaker:1
+    100444: EL12mm:1
+    100446: EL12mm:2
+    100448: EL12mmS:1
+    100450: EL12mmS:2
+    100452: EL24mm:1
+    100454: Frame joint pieces
+    100456: franka_sp_plata
+    100458: Front wheel assembly
+    100460: fuse-holder_6
+    100462: fuse_7
+    100464: fuse_7 1
+    100466: fuse_7 2
+    100468: fuse_7 3
+    100470: fuse_clip_set_2
+    100472: fuse_clip_set_2 1
+    100474: fuse_clip_set_2 2
+    100476: Hager Breaker:1
+    100478: Hager Breaker:1 1
+    100480: Hager Breaker:1 2
+    100482: Hager Breaker:2
+    100484: Hager Breaker:2 1
+    100486: Hager Breaker:2 2
+    100488: Hager Breaker:3
+    100490: Hager Breaker:3 1
+    100492: Hager Breaker:3 2
+    100494: Hager Breaker:4
+    100496: Hager Breaker:4 1
+    100498: Hager Breaker:4 2
+    100500: Hager Breaker:5
+    100502: Hager Breaker:5 1
+    100504: Hager Breaker:5 2
+    100506: HD12mm:1
+    100508: HD24mm:1
+    100510: HD24mm:2
+    100512: HD24mm:3
+    100514: HD24mm:4
+    100516: IEC320-C14:1
+    100518: ilpm_case_1
+    100520: Instalation cabinet
+    100522: Intercontec-EEDC201NN00000805000_ohnen Sockel:1
+    100524: Intercontec-EEDC201NN00000805000_ohnen Sockel:1 1
+    100526: Intercontec-EEDC201NN00000805000_ohnen Sockel:1 2
+    100528: Intercontec-EEDC201NN00000805000_ohnen Sockel:1 3
+    100530: inverter
+    100532: Kabelen kanal 60x40-400mm:1
+    100534: Kabelen kanal 60x40-400mm:1 1
+    100536: Kabelen kanal 60x40-400mm:1 2
+    100538: Kabelen kanal 60x40-400mm:2
+    100540: Kabelen kanal 60x40-400mm:2 1
+    100542: Kabelen kanal 60x40-400mm:2 2
+    100544: Kabelen kanal 80x40-60mm:1
+    100546: Kabelen kanal 80x40-60mm:1 1
+    100548: Kabelen kanal 80x40-60mm:1 2
+    100550: Kabelen kanal 80x40-60mm:2
+    100552: Kabelen kanal 80x40-60mm:2 1
+    100554: Kabelen kanal 80x40-60mm:2 2
+    100556: KOTNIK ALU 40 X 39 X 39:1
+    100558: KOTNIK ALU 40 X 39 X 39:2
+    100560: KOTNIK ALU 40 X 39 X 39:3
+    100562: KOTNIK ALU 40 X 39 X 39:4
+    100564: KOTNIK ALU 40 X 39 X 39:5
+    100566: KOTNIK ALU 40 X 39 X 39:6
+    100568: KOTNIK ALU 40 X 39 X 39:7
+    100570: KOTNIK ALU 40 X 39 X 39:8
+    100572: KOTNIK ALU 74 X 76 X 76:1
+    100574: KOTNIK ALU 74 X 76 X 76:2
+    100576: KOTNIK ALU 74 X 76 X 76:3
+    100578: KOTNIK ALU 74 X 76 X 76:4
+    100580: LA_J5J6_adapted_Standard_6
+    100582: LA_J5J6_adapted_Standard_6 1
+    100584: LA_J5J6_adapted_Standard_6 2
+    100586: Main switch
+    100588: MecScaled:1
+    100590: MecScaled:1 1
+    100592: MecScaled:1 10
+    100594: MecScaled:1 2
+    100596: MecScaled:1 3
+    100598: MecScaled:1 4
+    100600: MecScaled:1 5
+    100602: MecScaled:1 6
+    100604: MecScaled:1 7
+    100606: MecScaled:1 8
+    100608: MecScaled:1 9
+    100610: MecScaled:2
+    100612: MecScaled:2 1
+    100614: MecScaled:2 10
+    100616: MecScaled:2 2
+    100618: MecScaled:2 3
+    100620: MecScaled:2 4
+    100622: MecScaled:2 5
+    100624: MecScaled:2 6
+    100626: MecScaled:2 7
+    100628: MecScaled:2 8
+    100630: MecScaled:2 9
+    100632: MecScaled:3
+    100634: MecScaled:3 1
+    100636: MecScaled:3 10
+    100638: MecScaled:3 2
+    100640: MecScaled:3 3
+    100642: MecScaled:3 4
+    100644: MecScaled:3 5
+    100646: MecScaled:3 6
+    100648: MecScaled:3 7
+    100650: MecScaled:3 8
+    100652: MecScaled:3 9
+    100654: MecScaled:4
+    100656: MecScaled:4 1
+    100658: MecScaled:4 10
+    100660: MecScaled:4 2
+    100662: MecScaled:4 3
+    100664: MecScaled:4 4
+    100666: MecScaled:4 5
+    100668: MecScaled:4 6
+    100670: MecScaled:4 7
+    100672: MecScaled:4 8
+    100674: MecScaled:4 9
+    100676: Metal angled pieces
+    100678: nosilo_sprednja_kolesa:1
+    100680: Panda_controller
+    100682: Panda_J1
+    100684: Panda_J2
+    100686: Panda_J3
+    100688: Panda_J4
+    100690: Panda_J4_ClampingProtector1
+    100692: Panda_J4_ClampingProtector2
+    100694: Panda_J4_ElbowProtector
+    100696: Panda_J5
+    100698: Panda_J5_ClampingProtector1
+    100700: Panda_J5_ClampingProtector2
+    100702: Panda_J5_ElbowProtector
+    100704: Panda_J6
+    100706: Panda_J6_Protector
+    100708: Panda_J7
+    100710: Panda_TCP
+    100712: Plastic angled pieces
+    100714: Plastic angled pieces shims
+    100716: //RootNode
+    100718: PLC
+    100720: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:1"
+    100722: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:10"
+    100724: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:11"
+    100726: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:12"
+    100728: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:13"
+    100730: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:14"
+    100732: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:15"
+    100734: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:16"
+    100736: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:17"
+    100738: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:18"
+    100740: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:19"
+    100742: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:2"
+    100744: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:20"
+    100746: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:21"
+    100748: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:3"
+    100750: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:4"
+    100752: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:5"
+    100754: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:6"
+    100756: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:7"
+    100758: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:8"
+    100760: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:9"
+    100762: QV-8 SPOJNIK:1
+    100764: QV-8 SPOJNIK:10
+    100766: QV-8 SPOJNIK:11
+    100768: QV-8 SPOJNIK:12
+    100770: QV-8 SPOJNIK:13
+    100772: QV-8 SPOJNIK:14
+    100774: QV-8 SPOJNIK:15
+    100776: QV-8 SPOJNIK:16
+    100778: QV-8 SPOJNIK:17
+    100780: QV-8 SPOJNIK:18
+    100782: QV-8 SPOJNIK:19
+    100784: QV-8 SPOJNIK:2
+    100786: QV-8 SPOJNIK:20
+    100788: QV-8 SPOJNIK:21
+    100790: QV-8 SPOJNIK:22
+    100792: QV-8 SPOJNIK:23
+    100794: QV-8 SPOJNIK:24
+    100796: QV-8 SPOJNIK:3
+    100798: QV-8 SPOJNIK:4
+    100800: QV-8 SPOJNIK:5
+    100802: QV-8 SPOJNIK:6
+    100804: QV-8 SPOJNIK:7
+    100806: QV-8 SPOJNIK:8
+    100808: QV-8 SPOJNIK:9
+    100810: rocker_16
+    100812: sm_tab_type1a_17
+    100814: sm_tab_type1b_18
+    100816: sm_tab_type2a_19
+    100818: sm_tab_type2b_20
+    100820: spot_10
+    100822: spot_9
+    100824: stamped_cond_11
+    100826: switch_8
+    100828: switch_base_15
+    100830: User Library-ABB_E93_32_Fuse_Holder:1
+    100832: Vgrez1 v4:1
+    100834: Wheel assembly
+    100836: Wheel_adapter:1
+    100838: Wheel_adapter:2
+    100840: Wheel_adapter:3
+    100842: Wheel_adapter:4
+    100844: Wheel_BL
+    100846: Wheel_BR
+    100848: Wheel_FL
+    100850: Wheel_FR
+    100852: WR_J6_adapted_Standard_7
+    100854: WR_J6_adapted_Standard_7 1
+    100856: WR_J6_adapted_Standard_7 2
+    100858: WR_J6_adapted_Standard_7 3
+    100860: WR_J6_adapted_Standard_7 4
+    100862: WR_J6_adapted_Standard_7 5
+    100864: WR_J7_adapted_Standard_8
+    100866: WR_J7_adapted_Standard_8 1
+    100868: WR_J7_adapted_Standard_8 10
+    100870: WR_J7_adapted_Standard_8 11
+    100872: WR_J7_adapted_Standard_8 12
+    100874: WR_J7_adapted_Standard_8 13
+    100876: WR_J7_adapted_Standard_8 14
+    100878: WR_J7_adapted_Standard_8 15
+    100880: WR_J7_adapted_Standard_8 16
+    100882: WR_J7_adapted_Standard_8 17
+    100884: WR_J7_adapted_Standard_8 18
+    100886: WR_J7_adapted_Standard_8 19
+    100888: WR_J7_adapted_Standard_8 2
+    100890: WR_J7_adapted_Standard_8 20
+    100892: WR_J7_adapted_Standard_8 21
+    100894: WR_J7_adapted_Standard_8 22
+    100896: WR_J7_adapted_Standard_8 23
+    100898: WR_J7_adapted_Standard_8 24
+    100900: WR_J7_adapted_Standard_8 25
+    100902: WR_J7_adapted_Standard_8 26
+    100904: WR_J7_adapted_Standard_8 27
+    100906: WR_J7_adapted_Standard_8 28
+    100908: WR_J7_adapted_Standard_8 29
+    100910: WR_J7_adapted_Standard_8 3
+    100912: WR_J7_adapted_Standard_8 4
+    100914: WR_J7_adapted_Standard_8 5
+    100916: WR_J7_adapted_Standard_8 6
+    100918: WR_J7_adapted_Standard_8 7
+    100920: WR_J7_adapted_Standard_8 8
+    100922: WR_J7_adapted_Standard_8 9
+    400000: 2 TERMINAL CONNECTOR .25 SPACING
+    400002: 2 TERMINAL CONNECTOR .25 SPACING:1
+    400004: 2 TERMINAL CONNECTOR .25 SPACING:2
+    400006: 2 TERMINAL CONNECTOR .4 SPACING
+    400008: 2 TERMINAL CONNECTOR .4 SPACING:1
+    400010: 24V PSU
+    400012: 3 TERMINAL CONNECTOR .375 SPACING
+    400014: 6 TERMINAL CONNECTOR .25 SPACING
+    400016: 8-32 x .250 PHL PAN HD
+    400018: 8-32 x .250 PHL PAN HD:1
+    400020: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1
+    400022: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 1
+    400024: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 10
+    400026: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 11
+    400028: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 12
+    400030: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 13
+    400032: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 14
+    400034: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 2
+    400036: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 3
+    400038: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 4
+    400040: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 5
+    400042: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 6
+    400044: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 7
+    400046: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 8
+    400048: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 9
+    400050: AH 8 PRITRDILEC FATH:1
+    400052: AH 8 PRITRDILEC FATH:1 1
+    400054: AH 8 PRITRDILEC FATH:1 2
+    400056: AH 8 PRITRDILEC FATH:10
+    400058: AH 8 PRITRDILEC FATH:10 1
+    400060: AH 8 PRITRDILEC FATH:10 2
+    400062: AH 8 PRITRDILEC FATH:11
+    400064: AH 8 PRITRDILEC FATH:11 1
+    400066: AH 8 PRITRDILEC FATH:11 2
+    400068: AH 8 PRITRDILEC FATH:12
+    400070: AH 8 PRITRDILEC FATH:12 1
+    400072: AH 8 PRITRDILEC FATH:12 2
+    400074: AH 8 PRITRDILEC FATH:13
+    400076: AH 8 PRITRDILEC FATH:13 1
+    400078: AH 8 PRITRDILEC FATH:13 2
+    400080: AH 8 PRITRDILEC FATH:14
+    400082: AH 8 PRITRDILEC FATH:14 1
+    400084: AH 8 PRITRDILEC FATH:14 2
+    400086: AH 8 PRITRDILEC FATH:15
+    400088: AH 8 PRITRDILEC FATH:15 1
+    400090: AH 8 PRITRDILEC FATH:15 2
+    400092: AH 8 PRITRDILEC FATH:16
+    400094: AH 8 PRITRDILEC FATH:16 1
+    400096: AH 8 PRITRDILEC FATH:16 2
+    400098: AH 8 PRITRDILEC FATH:17
+    400100: AH 8 PRITRDILEC FATH:17 1
+    400102: AH 8 PRITRDILEC FATH:17 2
+    400104: AH 8 PRITRDILEC FATH:18
+    400106: AH 8 PRITRDILEC FATH:18 1
+    400108: AH 8 PRITRDILEC FATH:18 2
+    400110: AH 8 PRITRDILEC FATH:19
+    400112: AH 8 PRITRDILEC FATH:19 1
+    400114: AH 8 PRITRDILEC FATH:19 2
+    400116: AH 8 PRITRDILEC FATH:2
+    400118: AH 8 PRITRDILEC FATH:2 1
+    400120: AH 8 PRITRDILEC FATH:2 2
+    400122: AH 8 PRITRDILEC FATH:20
+    400124: AH 8 PRITRDILEC FATH:20 1
+    400126: AH 8 PRITRDILEC FATH:20 2
+    400128: AH 8 PRITRDILEC FATH:21
+    400130: AH 8 PRITRDILEC FATH:21 1
+    400132: AH 8 PRITRDILEC FATH:21 2
+    400134: AH 8 PRITRDILEC FATH:3
+    400136: AH 8 PRITRDILEC FATH:3 1
+    400138: AH 8 PRITRDILEC FATH:3 2
+    400140: AH 8 PRITRDILEC FATH:4
+    400142: AH 8 PRITRDILEC FATH:4 1
+    400144: AH 8 PRITRDILEC FATH:4 2
+    400146: AH 8 PRITRDILEC FATH:5
+    400148: AH 8 PRITRDILEC FATH:5 1
+    400150: AH 8 PRITRDILEC FATH:5 2
+    400152: AH 8 PRITRDILEC FATH:6
+    400154: AH 8 PRITRDILEC FATH:6 1
+    400156: AH 8 PRITRDILEC FATH:6 2
+    400158: AH 8 PRITRDILEC FATH:7
+    400160: AH 8 PRITRDILEC FATH:7 1
+    400162: AH 8 PRITRDILEC FATH:7 2
+    400164: AH 8 PRITRDILEC FATH:8
+    400166: AH 8 PRITRDILEC FATH:8 1
+    400168: AH 8 PRITRDILEC FATH:8 2
+    400170: AH 8 PRITRDILEC FATH:9
+    400172: AH 8 PRITRDILEC FATH:9 1
+    400174: AH 8 PRITRDILEC FATH:9 2
+    400176: ALU_plosca_508x460x3mm:1
+    400178: ALU_plosca_650x740x3mm:1
+    400180: ALU_profil_22,5_X_180_900:1
+    400182: ALU_profil_22,5_X_180_R40_L_900_L:1
+    400184: ALU_profil_22,5_X_180_R40_L_900_R:1
+    400186: ALU_profil_40_ X_40_L_200:1
+    400188: ALU_profil_40_ X_40_L_200:2
+    400190: ALU_profil_40_ X_40_L_200:3
+    400192: ALU_profil_40_ X_40_L_200:4
+    400194: ALU_profil_40_ X_40_L_200:5
+    400196: ALU_profil_40_ X_40_L_200:6
+    400198: ALU_profil_40_ X_40_L_600:1
+    400200: ALU_profil_40_ X_40_L_600:2
+    400202: ALU_profil_40_X_160_N_460:1
+    400204: ALU_profil_40_X_160_N_460:2
+    400206: ALU_profil_40_X_40_L_1N_460:1
+    400208: ALU_profil_40_X_40_L_1N_460:2
+    400210: ALU_profil_40_X_80_L_340:1
+    400212: ALU_profil_40_X_80_L_340:2
+    400214: ALU_profil_40_X_80_L_340:3
+    400216: ALU_profil_40_X_80_L_340:4
+    400218: ALU_profil_40_X_80_L_460:1
+    400220: ALU_profil_40_X_80_L_740:1
+    400222: ALU_profil_40_X_80_L_740:2
+    400224: ALU_profil_40_X_80_L_820:1
+    400226: ALU_profil_40_X_80_L_820:2
+    400228: "ALU_profil_polkrozni_40_R80_90\xB0_730:1"
+    400230: "ALU_profil_polkrozni_40_R80_90\xB0_730:2"
+    400232: "ALU_profil_polkrozni_40_R80_90\xB0_730:3"
+    400234: "ALU_profil_polkrozni_40_R80_90\xB0_730:4"
+    400236: AM8113-xx11:3
+    400238: AM8113-xx11:4
+    400240: AM8113-xx11:5
+    400242: AM8113-xx11:6
+    400244: BA_J1_adapted_Standard_1
+    400246: BA_J1_adapted_Standard_1 1
+    400248: BA_J1_adapted_Standard_1 10
+    400250: BA_J1_adapted_Standard_1 11
+    400252: BA_J1_adapted_Standard_1 12
+    400254: BA_J1_adapted_Standard_1 13
+    400256: BA_J1_adapted_Standard_1 14
+    400258: BA_J1_adapted_Standard_1 15
+    400260: BA_J1_adapted_Standard_1 16
+    400262: BA_J1_adapted_Standard_1 17
+    400264: BA_J1_adapted_Standard_1 18
+    400266: BA_J1_adapted_Standard_1 19
+    400268: BA_J1_adapted_Standard_1 2
+    400270: BA_J1_adapted_Standard_1 20
+    400272: BA_J1_adapted_Standard_1 21
+    400274: BA_J1_adapted_Standard_1 22
+    400276: BA_J1_adapted_Standard_1 23
+    400278: BA_J1_adapted_Standard_1 24
+    400280: BA_J1_adapted_Standard_1 25
+    400282: BA_J1_adapted_Standard_1 26
+    400284: BA_J1_adapted_Standard_1 27
+    400286: BA_J1_adapted_Standard_1 28
+    400288: BA_J1_adapted_Standard_1 29
+    400290: BA_J1_adapted_Standard_1 3
+    400292: BA_J1_adapted_Standard_1 30
+    400294: BA_J1_adapted_Standard_1 31
+    400296: BA_J1_adapted_Standard_1 32
+    400298: BA_J1_adapted_Standard_1 33
+    400300: BA_J1_adapted_Standard_1 34
+    400302: BA_J1_adapted_Standard_1 35
+    400304: BA_J1_adapted_Standard_1 36
+    400306: BA_J1_adapted_Standard_1 37
+    400308: BA_J1_adapted_Standard_1 4
+    400310: BA_J1_adapted_Standard_1 5
+    400312: BA_J1_adapted_Standard_1 6
+    400314: BA_J1_adapted_Standard_1 7
+    400316: BA_J1_adapted_Standard_1 8
+    400318: BA_J1_adapted_Standard_1 9
+    400320: Battery assembly
+    400322: battery:1
+    400324: Beckhoff_WPLE40:1
+    400326: Beckhoff_WPLE40:2
+    400328: Beckhoff_WPLE40:3
+    400330: Beckhoff_WPLE40:4
+    400332: blade_12_4
+    400334: blade_12_4 1
+    400336: blade_12_4 2
+    400338: blade_12_5
+    400340: blade_12_5 1
+    400342: blade_12_5 2
+    400344: blade_15_3
+    400346: blade_15_3 1
+    400348: blade_15_3 2
+    400350: BM040-VM_00:1
+    400352: BM040-VM_00:1 1
+    400354: BM040-VM_00:1 2
+    400356: BM040-VM_00:1 3
+    400358: BOSCH_REXROTH_PROFILE_20X20_6MM_T-SLOT-short:1
+    400360: BOSCH_REXROTH_PROFILE_20X20_6MM_T-SLOT-short:2
+    400362: BOSCH_REXROTH_PROFILE_20X20_6MM_T-SLOT:1
+    400364: BOSCH_REXROTH_PROFILE_20X20_6MM_T-SLOT:2
+    400366: Cable channels
+    400368: Control panel assembly
+    400370: correct_big_tab_12
+    400372: correct_big_tab_13
+    400374: correct_big_tab_14
+    400376: CX5130-40:1
+    400378: CX5130-40:1 1
+    400380: CX5130-40:1 2
+    400382: DIN 6885-A3x3x12:1
+    400384: DIN 6885-A3x3x12:1 1
+    400386: DIN 6885-A3x3x12:1 2
+    400388: DIN 6885-A3x3x12:1 3
+    400390: DIN RAIL CLAMP
+    400392: DIN rails
+    400394: DIN SIN_WEIDMULLER_(360mm)-3:1
+    400396: DIN SIN_WEIDMULLER_(460mm):1
+    400398: dodatni_sklep:1
+    400400: DPP480-48-1
+    400402: E Stop Button:1
+    400404: E Stop Button:1 1
+    400406: E Stop Button:1 2
+    400408: E Stop Button:1 3
+    400410: E-omarica-pokrovcek:1
+    400412: E-omarica-pokrovcek:10
+    400414: E-omarica-pokrovcek:11
+    400416: E-omarica-pokrovcek:12
+    400418: E-omarica-pokrovcek:13
+    400420: E-omarica-pokrovcek:14
+    400422: E-omarica-pokrovcek:15
+    400424: E-omarica-pokrovcek:2
+    400426: E-omarica-pokrovcek:3
+    400428: E-omarica-pokrovcek:4
+    400430: E-omarica-pokrovcek:5
+    400432: E-omarica-pokrovcek:6
+    400434: E-omarica-pokrovcek:7
+    400436: E-omarica-pokrovcek:8
+    400438: E-omarica-pokrovcek:9
+    400440: E_omarica:1
+    400442: Earth Leakage Circuit Breaker:1
+    400444: EL12mm:1
+    400446: EL12mm:2
+    400448: EL12mmS:1
+    400450: EL12mmS:2
+    400452: EL24mm:1
+    400454: Frame joint pieces
+    400456: franka_sp_plata
+    400458: Front wheel assembly
+    400460: fuse-holder_6
+    400462: fuse_7
+    400464: fuse_7 1
+    400466: fuse_7 2
+    400468: fuse_7 3
+    400470: fuse_clip_set_2
+    400472: fuse_clip_set_2 1
+    400474: fuse_clip_set_2 2
+    400476: Hager Breaker:1
+    400478: Hager Breaker:1 1
+    400480: Hager Breaker:1 2
+    400482: Hager Breaker:2
+    400484: Hager Breaker:2 1
+    400486: Hager Breaker:2 2
+    400488: Hager Breaker:3
+    400490: Hager Breaker:3 1
+    400492: Hager Breaker:3 2
+    400494: Hager Breaker:4
+    400496: Hager Breaker:4 1
+    400498: Hager Breaker:4 2
+    400500: Hager Breaker:5
+    400502: Hager Breaker:5 1
+    400504: Hager Breaker:5 2
+    400506: HD12mm:1
+    400508: HD24mm:1
+    400510: HD24mm:2
+    400512: HD24mm:3
+    400514: HD24mm:4
+    400516: IEC320-C14:1
+    400518: ilpm_case_1
+    400520: Instalation cabinet
+    400522: Intercontec-EEDC201NN00000805000_ohnen Sockel:1
+    400524: Intercontec-EEDC201NN00000805000_ohnen Sockel:1 1
+    400526: Intercontec-EEDC201NN00000805000_ohnen Sockel:1 2
+    400528: Intercontec-EEDC201NN00000805000_ohnen Sockel:1 3
+    400530: inverter
+    400532: Kabelen kanal 60x40-400mm:1
+    400534: Kabelen kanal 60x40-400mm:1 1
+    400536: Kabelen kanal 60x40-400mm:1 2
+    400538: Kabelen kanal 60x40-400mm:2
+    400540: Kabelen kanal 60x40-400mm:2 1
+    400542: Kabelen kanal 60x40-400mm:2 2
+    400544: Kabelen kanal 80x40-60mm:1
+    400546: Kabelen kanal 80x40-60mm:1 1
+    400548: Kabelen kanal 80x40-60mm:1 2
+    400550: Kabelen kanal 80x40-60mm:2
+    400552: Kabelen kanal 80x40-60mm:2 1
+    400554: Kabelen kanal 80x40-60mm:2 2
+    400556: KOTNIK ALU 40 X 39 X 39:1
+    400558: KOTNIK ALU 40 X 39 X 39:2
+    400560: KOTNIK ALU 40 X 39 X 39:3
+    400562: KOTNIK ALU 40 X 39 X 39:4
+    400564: KOTNIK ALU 40 X 39 X 39:5
+    400566: KOTNIK ALU 40 X 39 X 39:6
+    400568: KOTNIK ALU 40 X 39 X 39:7
+    400570: KOTNIK ALU 40 X 39 X 39:8
+    400572: KOTNIK ALU 74 X 76 X 76:1
+    400574: KOTNIK ALU 74 X 76 X 76:2
+    400576: KOTNIK ALU 74 X 76 X 76:3
+    400578: KOTNIK ALU 74 X 76 X 76:4
+    400580: LA_J5J6_adapted_Standard_6
+    400582: LA_J5J6_adapted_Standard_6 1
+    400584: LA_J5J6_adapted_Standard_6 2
+    400586: Main switch
+    400588: MecScaled:1
+    400590: MecScaled:1 1
+    400592: MecScaled:1 10
+    400594: MecScaled:1 2
+    400596: MecScaled:1 3
+    400598: MecScaled:1 4
+    400600: MecScaled:1 5
+    400602: MecScaled:1 6
+    400604: MecScaled:1 7
+    400606: MecScaled:1 8
+    400608: MecScaled:1 9
+    400610: MecScaled:2
+    400612: MecScaled:2 1
+    400614: MecScaled:2 10
+    400616: MecScaled:2 2
+    400618: MecScaled:2 3
+    400620: MecScaled:2 4
+    400622: MecScaled:2 5
+    400624: MecScaled:2 6
+    400626: MecScaled:2 7
+    400628: MecScaled:2 8
+    400630: MecScaled:2 9
+    400632: MecScaled:3
+    400634: MecScaled:3 1
+    400636: MecScaled:3 10
+    400638: MecScaled:3 2
+    400640: MecScaled:3 3
+    400642: MecScaled:3 4
+    400644: MecScaled:3 5
+    400646: MecScaled:3 6
+    400648: MecScaled:3 7
+    400650: MecScaled:3 8
+    400652: MecScaled:3 9
+    400654: MecScaled:4
+    400656: MecScaled:4 1
+    400658: MecScaled:4 10
+    400660: MecScaled:4 2
+    400662: MecScaled:4 3
+    400664: MecScaled:4 4
+    400666: MecScaled:4 5
+    400668: MecScaled:4 6
+    400670: MecScaled:4 7
+    400672: MecScaled:4 8
+    400674: MecScaled:4 9
+    400676: Metal angled pieces
+    400678: nosilo_sprednja_kolesa:1
+    400680: Panda_controller
+    400682: Panda_J1
+    400684: Panda_J2
+    400686: Panda_J3
+    400688: Panda_J4
+    400690: Panda_J4_ClampingProtector1
+    400692: Panda_J4_ClampingProtector2
+    400694: Panda_J4_ElbowProtector
+    400696: Panda_J5
+    400698: Panda_J5_ClampingProtector1
+    400700: Panda_J5_ClampingProtector2
+    400702: Panda_J5_ElbowProtector
+    400704: Panda_J6
+    400706: Panda_J6_Protector
+    400708: Panda_J7
+    400710: Panda_TCP
+    400712: Plastic angled pieces
+    400714: Plastic angled pieces shims
+    400716: //RootNode
+    400718: PLC
+    400720: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:1"
+    400722: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:10"
+    400724: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:11"
+    400726: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:12"
+    400728: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:13"
+    400730: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:14"
+    400732: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:15"
+    400734: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:16"
+    400736: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:17"
+    400738: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:18"
+    400740: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:19"
+    400742: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:2"
+    400744: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:20"
+    400746: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:21"
+    400748: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:3"
+    400750: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:4"
+    400752: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:5"
+    400754: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:6"
+    400756: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:7"
+    400758: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:8"
+    400760: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:9"
+    400762: QV-8 SPOJNIK:1
+    400764: QV-8 SPOJNIK:10
+    400766: QV-8 SPOJNIK:11
+    400768: QV-8 SPOJNIK:12
+    400770: QV-8 SPOJNIK:13
+    400772: QV-8 SPOJNIK:14
+    400774: QV-8 SPOJNIK:15
+    400776: QV-8 SPOJNIK:16
+    400778: QV-8 SPOJNIK:17
+    400780: QV-8 SPOJNIK:18
+    400782: QV-8 SPOJNIK:19
+    400784: QV-8 SPOJNIK:2
+    400786: QV-8 SPOJNIK:20
+    400788: QV-8 SPOJNIK:21
+    400790: QV-8 SPOJNIK:22
+    400792: QV-8 SPOJNIK:23
+    400794: QV-8 SPOJNIK:24
+    400796: QV-8 SPOJNIK:3
+    400798: QV-8 SPOJNIK:4
+    400800: QV-8 SPOJNIK:5
+    400802: QV-8 SPOJNIK:6
+    400804: QV-8 SPOJNIK:7
+    400806: QV-8 SPOJNIK:8
+    400808: QV-8 SPOJNIK:9
+    400810: rocker_16
+    400812: sm_tab_type1a_17
+    400814: sm_tab_type1b_18
+    400816: sm_tab_type2a_19
+    400818: sm_tab_type2b_20
+    400820: spot_10
+    400822: spot_9
+    400824: stamped_cond_11
+    400826: switch_8
+    400828: switch_base_15
+    400830: User Library-ABB_E93_32_Fuse_Holder:1
+    400832: Vgrez1 v4:1
+    400834: Wheel assembly
+    400836: Wheel_adapter:1
+    400838: Wheel_adapter:2
+    400840: Wheel_adapter:3
+    400842: Wheel_adapter:4
+    400844: Wheel_BL
+    400846: Wheel_BR
+    400848: Wheel_FL
+    400850: Wheel_FR
+    400852: WR_J6_adapted_Standard_7
+    400854: WR_J6_adapted_Standard_7 1
+    400856: WR_J6_adapted_Standard_7 2
+    400858: WR_J6_adapted_Standard_7 3
+    400860: WR_J6_adapted_Standard_7 4
+    400862: WR_J6_adapted_Standard_7 5
+    400864: WR_J7_adapted_Standard_8
+    400866: WR_J7_adapted_Standard_8 1
+    400868: WR_J7_adapted_Standard_8 10
+    400870: WR_J7_adapted_Standard_8 11
+    400872: WR_J7_adapted_Standard_8 12
+    400874: WR_J7_adapted_Standard_8 13
+    400876: WR_J7_adapted_Standard_8 14
+    400878: WR_J7_adapted_Standard_8 15
+    400880: WR_J7_adapted_Standard_8 16
+    400882: WR_J7_adapted_Standard_8 17
+    400884: WR_J7_adapted_Standard_8 18
+    400886: WR_J7_adapted_Standard_8 19
+    400888: WR_J7_adapted_Standard_8 2
+    400890: WR_J7_adapted_Standard_8 20
+    400892: WR_J7_adapted_Standard_8 21
+    400894: WR_J7_adapted_Standard_8 22
+    400896: WR_J7_adapted_Standard_8 23
+    400898: WR_J7_adapted_Standard_8 24
+    400900: WR_J7_adapted_Standard_8 25
+    400902: WR_J7_adapted_Standard_8 26
+    400904: WR_J7_adapted_Standard_8 27
+    400906: WR_J7_adapted_Standard_8 28
+    400908: WR_J7_adapted_Standard_8 29
+    400910: WR_J7_adapted_Standard_8 3
+    400912: WR_J7_adapted_Standard_8 4
+    400914: WR_J7_adapted_Standard_8 5
+    400916: WR_J7_adapted_Standard_8 6
+    400918: WR_J7_adapted_Standard_8 7
+    400920: WR_J7_adapted_Standard_8 8
+    400922: WR_J7_adapted_Standard_8 9
+    2100000: No Name
+    2100002: Metal 2400F Hot
+    2100004: Default(1)
+    2100006: Default
+    2100008: 163,163,169
+    2100010: 142,133,137
+    2100012: 165,0,0
+    2100014: 244,244,244
+    2100016: 255,255,255
+    2100018: Aluminum - Flat
+    2100020: Smooth - Black
+    2100022: 255,255,107(4)
+    2100024: 255,255,107
+    2100026: 255,255,107(7)
+    2100028: 255,255,107(6)
+    2100030: 255,255,107(5)
+    2100032: 255,255,107(1)
+    2100034: 255,255,107(2)
+    2100036: 255,255,107(3)
+    2100038: 209,209,209(11)
+    2100040: 209,209,209(4)
+    2100042: 209,209,209(13)
+    2100044: 209,209,209(12)
+    2100046: 209,209,209(8)
+    2100048: 209,209,209(10)
+    2100050: 209,209,209(9)
+    2100052: 209,209,209
+    2100054: 209,209,209(6)
+    2100056: 209,209,209(7)
+    2100058: 209,209,209(5)
+    2100060: 209,209,209(1)
+    2100062: 209,209,209(3)
+    2100064: 209,209,209(2)
+    2100066: 96,96,96
+    2100068: 244,241,248
+    2100070: 242,242,255
+    2100072: Aluminum - Polished(1)
+    2100074: Default(15)
+    2100076: Default(16)
+    2100078: Default(8)
+    2100080: Default(18)
+    2100082: Aluminum - Polished(2)
+    2100084: Aluminum - Polished(4)
+    2100086: Default(17)
+    2100088: Aluminum - Polished(3)
+    2100090: Default(19)
+    2100092: Default(10)
+    2100094: Default(11)
+    2100096: Default(12)
+    2100098: Default(4)
+    2100100: Default(2)
+    2100102: Default(3)
+    2100104: Default(5)
+    2100106: Default(7)
+    2100108: Default(9)
+    2100110: Default(14)
+    2100112: Default(13)
+    2100114: Default(6)
+    2100116: 245,245,245
+    2100118: 245,245,245(5)
+    2100120: 245,245,245(3)
+    2100122: 245,245,245(2)
+    2100124: 245,245,245(8)
+    2100126: 245,245,245(7)
+    2100128: 245,245,245(1)
+    2100130: 245,245,245(6)
+    2100132: 245,245,245(4)
+    2100134: 229,229,229
+    2100136: 0,158,247(1)
+    2100138: 204,204,204
+    2100140: 148,148,148(1)
+    2100142: 163,171,176
+    2100144: 51,51,51
+    2100146: 182,109,46
+    2100148: 51,51,51(1)
+    2100150: 0,158,247(3)
+    2100152: 0,158,247(2)
+    2100154: 0,182,217(1)
+    2100156: 0,125,0
+    2100158: 148,148,148
+    2100160: 204,204,204(1)
+    2100162: 0,178,255(1)
+    2100164: 202,209,238
+    2100166: Black Cast
+    2100168: 128,128,128
+    2100170: 173,196,207
+    2100172: 0,0,0
+    2100174: 163,170,173
+    2100176: 255,255,221
+    2100178: 177,25,25
+    2100180: 212,171,33
+    2100182: 160,163,145
+    2100184: 239,239,239
+    2100186: Steel - Satin(1)
+    2100188: Steel - Satin
+    2100190: Default(20)
+    2100192: Default(22)
+    2100194: Default(23)
+    2100196: Aluminum - Flat(1)
+    2100198: Aluminum - Polished
+    2100200: Light 1
+    2300000: 2 TERMINAL CONNECTOR .25 SPACING
+    2300002: 2 TERMINAL CONNECTOR .25 SPACING:1
+    2300004: 2 TERMINAL CONNECTOR .25 SPACING:2
+    2300006: 2 TERMINAL CONNECTOR .4 SPACING
+    2300008: 2 TERMINAL CONNECTOR .4 SPACING:1
+    2300010: 8-32 x .250 PHL PAN HD
+    2300012: 8-32 x .250 PHL PAN HD:1
+    2300014: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1
+    2300016: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 1
+    2300018: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 10
+    2300020: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 11
+    2300022: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 12
+    2300024: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 13
+    2300026: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 14
+    2300028: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 2
+    2300030: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 3
+    2300032: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 4
+    2300034: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 5
+    2300036: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 6
+    2300038: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 7
+    2300040: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 8
+    2300042: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 9
+    2300044: AH 8 PRITRDILEC FATH:1 1
+    2300046: AH 8 PRITRDILEC FATH:1 2
+    2300048: AH 8 PRITRDILEC FATH:10 1
+    2300050: AH 8 PRITRDILEC FATH:10 2
+    2300052: AH 8 PRITRDILEC FATH:11 1
+    2300054: AH 8 PRITRDILEC FATH:11 2
+    2300056: AH 8 PRITRDILEC FATH:12 1
+    2300058: AH 8 PRITRDILEC FATH:12 2
+    2300060: AH 8 PRITRDILEC FATH:13 1
+    2300062: AH 8 PRITRDILEC FATH:13 2
+    2300064: AH 8 PRITRDILEC FATH:14 1
+    2300066: AH 8 PRITRDILEC FATH:14 2
+    2300068: AH 8 PRITRDILEC FATH:15 1
+    2300070: AH 8 PRITRDILEC FATH:15 2
+    2300072: AH 8 PRITRDILEC FATH:16 1
+    2300074: AH 8 PRITRDILEC FATH:16 2
+    2300076: AH 8 PRITRDILEC FATH:17 1
+    2300078: AH 8 PRITRDILEC FATH:17 2
+    2300080: AH 8 PRITRDILEC FATH:18 1
+    2300082: AH 8 PRITRDILEC FATH:18 2
+    2300084: AH 8 PRITRDILEC FATH:19 1
+    2300086: AH 8 PRITRDILEC FATH:19 2
+    2300088: AH 8 PRITRDILEC FATH:2 1
+    2300090: AH 8 PRITRDILEC FATH:2 2
+    2300092: AH 8 PRITRDILEC FATH:20 1
+    2300094: AH 8 PRITRDILEC FATH:20 2
+    2300096: AH 8 PRITRDILEC FATH:21 1
+    2300098: AH 8 PRITRDILEC FATH:21 2
+    2300100: AH 8 PRITRDILEC FATH:3 1
+    2300102: AH 8 PRITRDILEC FATH:3 2
+    2300104: AH 8 PRITRDILEC FATH:4 1
+    2300106: AH 8 PRITRDILEC FATH:4 2
+    2300108: AH 8 PRITRDILEC FATH:5 1
+    2300110: AH 8 PRITRDILEC FATH:5 2
+    2300112: AH 8 PRITRDILEC FATH:6 1
+    2300114: AH 8 PRITRDILEC FATH:6 2
+    2300116: AH 8 PRITRDILEC FATH:7 1
+    2300118: AH 8 PRITRDILEC FATH:7 2
+    2300120: AH 8 PRITRDILEC FATH:8 1
+    2300122: AH 8 PRITRDILEC FATH:8 2
+    2300124: AH 8 PRITRDILEC FATH:9 1
+    2300126: AH 8 PRITRDILEC FATH:9 2
+    2300128: ALU_plosca_508x460x3mm:1
+    2300130: ALU_plosca_650x740x3mm:1
+    2300132: ALU_profil_22,5_X_180_900:1
+    2300134: ALU_profil_22,5_X_180_R40_L_900_L:1
+    2300136: ALU_profil_22,5_X_180_R40_L_900_R:1
+    2300138: ALU_profil_40_ X_40_L_200:1
+    2300140: ALU_profil_40_ X_40_L_200:2
+    2300142: ALU_profil_40_ X_40_L_200:3
+    2300144: ALU_profil_40_ X_40_L_200:4
+    2300146: ALU_profil_40_ X_40_L_200:5
+    2300148: ALU_profil_40_ X_40_L_200:6
+    2300150: ALU_profil_40_ X_40_L_600:1
+    2300152: ALU_profil_40_ X_40_L_600:2
+    2300154: ALU_profil_40_X_160_N_460:1
+    2300156: ALU_profil_40_X_160_N_460:2
+    2300158: ALU_profil_40_X_40_L_1N_460:1
+    2300160: ALU_profil_40_X_40_L_1N_460:2
+    2300162: ALU_profil_40_X_80_L_340:1
+    2300164: ALU_profil_40_X_80_L_340:2
+    2300166: ALU_profil_40_X_80_L_340:3
+    2300168: ALU_profil_40_X_80_L_340:4
+    2300170: ALU_profil_40_X_80_L_460:1
+    2300172: ALU_profil_40_X_80_L_740:1
+    2300174: ALU_profil_40_X_80_L_740:2
+    2300176: ALU_profil_40_X_80_L_820:1
+    2300178: ALU_profil_40_X_80_L_820:2
+    2300180: "ALU_profil_polkrozni_40_R80_90\xB0_730:1"
+    2300182: "ALU_profil_polkrozni_40_R80_90\xB0_730:2"
+    2300184: "ALU_profil_polkrozni_40_R80_90\xB0_730:3"
+    2300186: "ALU_profil_polkrozni_40_R80_90\xB0_730:4"
+    2300188: BA_J1_adapted_Standard_1
+    2300190: BA_J1_adapted_Standard_1 1
+    2300192: BA_J1_adapted_Standard_1 10
+    2300194: BA_J1_adapted_Standard_1 11
+    2300196: BA_J1_adapted_Standard_1 12
+    2300198: BA_J1_adapted_Standard_1 13
+    2300200: BA_J1_adapted_Standard_1 14
+    2300202: BA_J1_adapted_Standard_1 15
+    2300204: BA_J1_adapted_Standard_1 16
+    2300206: BA_J1_adapted_Standard_1 17
+    2300208: BA_J1_adapted_Standard_1 18
+    2300210: BA_J1_adapted_Standard_1 19
+    2300212: BA_J1_adapted_Standard_1 2
+    2300214: BA_J1_adapted_Standard_1 20
+    2300216: BA_J1_adapted_Standard_1 21
+    2300218: BA_J1_adapted_Standard_1 22
+    2300220: BA_J1_adapted_Standard_1 23
+    2300222: BA_J1_adapted_Standard_1 24
+    2300224: BA_J1_adapted_Standard_1 25
+    2300226: BA_J1_adapted_Standard_1 26
+    2300228: BA_J1_adapted_Standard_1 27
+    2300230: BA_J1_adapted_Standard_1 28
+    2300232: BA_J1_adapted_Standard_1 29
+    2300234: BA_J1_adapted_Standard_1 3
+    2300236: BA_J1_adapted_Standard_1 30
+    2300238: BA_J1_adapted_Standard_1 31
+    2300240: BA_J1_adapted_Standard_1 32
+    2300242: BA_J1_adapted_Standard_1 33
+    2300244: BA_J1_adapted_Standard_1 34
+    2300246: BA_J1_adapted_Standard_1 35
+    2300248: BA_J1_adapted_Standard_1 36
+    2300250: BA_J1_adapted_Standard_1 37
+    2300252: BA_J1_adapted_Standard_1 4
+    2300254: BA_J1_adapted_Standard_1 5
+    2300256: BA_J1_adapted_Standard_1 6
+    2300258: BA_J1_adapted_Standard_1 7
+    2300260: BA_J1_adapted_Standard_1 8
+    2300262: BA_J1_adapted_Standard_1 9
+    2300264: battery:1
+    2300266: Beckhoff_WPLE40:1
+    2300268: Beckhoff_WPLE40:2
+    2300270: Beckhoff_WPLE40:3
+    2300272: Beckhoff_WPLE40:4
+    2300274: blade_12_4 1
+    2300276: blade_12_4 2
+    2300278: blade_12_5 1
+    2300280: blade_12_5 2
+    2300282: blade_15_3 1
+    2300284: blade_15_3 2
+    2300286: BM040-VM_00:1
+    2300288: BM040-VM_00:1 1
+    2300290: BM040-VM_00:1 2
+    2300292: BM040-VM_00:1 3
+    2300294: BOSCH_REXROTH_PROFILE_20X20_6MM_T-SLOT-short:1
+    2300296: BOSCH_REXROTH_PROFILE_20X20_6MM_T-SLOT-short:2
+    2300298: BOSCH_REXROTH_PROFILE_20X20_6MM_T-SLOT:1
+    2300300: BOSCH_REXROTH_PROFILE_20X20_6MM_T-SLOT:2
+    2300302: correct_big_tab_12
+    2300304: correct_big_tab_13
+    2300306: correct_big_tab_14
+    2300308: CX5130-40:1 1
+    2300310: CX5130-40:1 2
+    2300312: DIN 6885-A3x3x12:1
+    2300314: DIN 6885-A3x3x12:1 1
+    2300316: DIN 6885-A3x3x12:1 2
+    2300318: DIN 6885-A3x3x12:1 3
+    2300320: DIN RAIL CLAMP
+    2300322: DIN SIN_WEIDMULLER_(360mm)-3:1
+    2300324: DIN SIN_WEIDMULLER_(460mm):1
+    2300326: dodatni_sklep:1
+    2300328: DPP480-48-1
+    2300330: E Stop Button:1 1
+    2300332: E Stop Button:1 2
+    2300334: E Stop Button:1 3
+    2300336: E-omarica-pokrovcek:1
+    2300338: E-omarica-pokrovcek:10
+    2300340: E-omarica-pokrovcek:11
+    2300342: E-omarica-pokrovcek:12
+    2300344: E-omarica-pokrovcek:13
+    2300346: E-omarica-pokrovcek:14
+    2300348: E-omarica-pokrovcek:15
+    2300350: E-omarica-pokrovcek:2
+    2300352: E-omarica-pokrovcek:3
+    2300354: E-omarica-pokrovcek:4
+    2300356: E-omarica-pokrovcek:5
+    2300358: E-omarica-pokrovcek:6
+    2300360: E-omarica-pokrovcek:7
+    2300362: E-omarica-pokrovcek:8
+    2300364: E-omarica-pokrovcek:9
+    2300366: E_omarica:1
+    2300368: Earth Leakage Circuit Breaker:1
+    2300370: EL12mm:1
+    2300372: EL12mm:2
+    2300374: EL12mmS:1
+    2300376: EL12mmS:2
+    2300378: EL24mm:1
+    2300380: franka_sp_plata
+    2300382: fuse-holder_6
+    2300384: fuse_7 1
+    2300386: fuse_7 2
+    2300388: fuse_7 3
+    2300390: fuse_clip_set_2 1
+    2300392: fuse_clip_set_2 2
+    2300394: Hager Breaker:1 1
+    2300396: Hager Breaker:1 2
+    2300398: Hager Breaker:2 1
+    2300400: Hager Breaker:2 2
+    2300402: Hager Breaker:3 1
+    2300404: Hager Breaker:3 2
+    2300406: Hager Breaker:4 1
+    2300408: Hager Breaker:4 2
+    2300410: Hager Breaker:5 1
+    2300412: Hager Breaker:5 2
+    2300414: HD12mm:1
+    2300416: HD24mm:1
+    2300418: HD24mm:2
+    2300420: HD24mm:3
+    2300422: HD24mm:4
+    2300424: ilpm_case_1
+    2300426: Intercontec-EEDC201NN00000805000_ohnen Sockel:1
+    2300428: Intercontec-EEDC201NN00000805000_ohnen Sockel:1 1
+    2300430: Intercontec-EEDC201NN00000805000_ohnen Sockel:1 2
+    2300432: Intercontec-EEDC201NN00000805000_ohnen Sockel:1 3
+    2300434: inverter
+    2300436: Kabelen kanal 60x40-400mm:1 1
+    2300438: Kabelen kanal 60x40-400mm:1 2
+    2300440: Kabelen kanal 60x40-400mm:2 1
+    2300442: Kabelen kanal 60x40-400mm:2 2
+    2300444: Kabelen kanal 80x40-60mm:1 1
+    2300446: Kabelen kanal 80x40-60mm:1 2
+    2300448: Kabelen kanal 80x40-60mm:2 1
+    2300450: Kabelen kanal 80x40-60mm:2 2
+    2300452: KOTNIK ALU 40 X 39 X 39:1
+    2300454: KOTNIK ALU 40 X 39 X 39:2
+    2300456: KOTNIK ALU 40 X 39 X 39:3
+    2300458: KOTNIK ALU 40 X 39 X 39:4
+    2300460: KOTNIK ALU 40 X 39 X 39:5
+    2300462: KOTNIK ALU 40 X 39 X 39:6
+    2300464: KOTNIK ALU 40 X 39 X 39:7
+    2300466: KOTNIK ALU 40 X 39 X 39:8
+    2300468: KOTNIK ALU 74 X 76 X 76:1
+    2300470: KOTNIK ALU 74 X 76 X 76:2
+    2300472: KOTNIK ALU 74 X 76 X 76:3
+    2300474: KOTNIK ALU 74 X 76 X 76:4
+    2300476: LA_J5J6_adapted_Standard_6
+    2300478: LA_J5J6_adapted_Standard_6 1
+    2300480: LA_J5J6_adapted_Standard_6 2
+    2300482: MecScaled:1
+    2300484: MecScaled:1 1
+    2300486: MecScaled:1 10
+    2300488: MecScaled:1 2
+    2300490: MecScaled:1 3
+    2300492: MecScaled:1 4
+    2300494: MecScaled:1 5
+    2300496: MecScaled:1 6
+    2300498: MecScaled:1 7
+    2300500: MecScaled:1 8
+    2300502: MecScaled:1 9
+    2300504: MecScaled:2
+    2300506: MecScaled:2 1
+    2300508: MecScaled:2 10
+    2300510: MecScaled:2 2
+    2300512: MecScaled:2 3
+    2300514: MecScaled:2 4
+    2300516: MecScaled:2 5
+    2300518: MecScaled:2 6
+    2300520: MecScaled:2 7
+    2300522: MecScaled:2 8
+    2300524: MecScaled:2 9
+    2300526: MecScaled:3
+    2300528: MecScaled:3 1
+    2300530: MecScaled:3 10
+    2300532: MecScaled:3 2
+    2300534: MecScaled:3 3
+    2300536: MecScaled:3 4
+    2300538: MecScaled:3 5
+    2300540: MecScaled:3 6
+    2300542: MecScaled:3 7
+    2300544: MecScaled:3 8
+    2300546: MecScaled:3 9
+    2300548: MecScaled:4
+    2300550: MecScaled:4 1
+    2300552: MecScaled:4 10
+    2300554: MecScaled:4 2
+    2300556: MecScaled:4 3
+    2300558: MecScaled:4 4
+    2300560: MecScaled:4 5
+    2300562: MecScaled:4 6
+    2300564: MecScaled:4 7
+    2300566: MecScaled:4 8
+    2300568: MecScaled:4 9
+    2300570: nosilo_sprednja_kolesa:1
+    2300572: Panda_controller
+    2300574: Panda_J2
+    2300576: Panda_J3
+    2300578: Panda_J4
+    2300580: Panda_J4_ClampingProtector1
+    2300582: Panda_J4_ClampingProtector2
+    2300584: Panda_J4_ElbowProtector
+    2300586: Panda_J5
+    2300588: Panda_J5_ClampingProtector1
+    2300590: Panda_J5_ClampingProtector2
+    2300592: Panda_J5_ElbowProtector
+    2300594: Panda_J6_Protector
+    2300596: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:1"
+    2300598: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:10"
+    2300600: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:11"
+    2300602: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:12"
+    2300604: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:13"
+    2300606: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:14"
+    2300608: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:15"
+    2300610: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:16"
+    2300612: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:17"
+    2300614: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:18"
+    2300616: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:19"
+    2300618: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:2"
+    2300620: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:20"
+    2300622: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:21"
+    2300624: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:3"
+    2300626: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:4"
+    2300628: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:5"
+    2300630: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:6"
+    2300632: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:7"
+    2300634: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:8"
+    2300636: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:9"
+    2300638: QV-8 SPOJNIK:1
+    2300640: QV-8 SPOJNIK:10
+    2300642: QV-8 SPOJNIK:11
+    2300644: QV-8 SPOJNIK:12
+    2300646: QV-8 SPOJNIK:13
+    2300648: QV-8 SPOJNIK:14
+    2300650: QV-8 SPOJNIK:15
+    2300652: QV-8 SPOJNIK:16
+    2300654: QV-8 SPOJNIK:17
+    2300656: QV-8 SPOJNIK:18
+    2300658: QV-8 SPOJNIK:19
+    2300660: QV-8 SPOJNIK:2
+    2300662: QV-8 SPOJNIK:20
+    2300664: QV-8 SPOJNIK:21
+    2300666: QV-8 SPOJNIK:22
+    2300668: QV-8 SPOJNIK:23
+    2300670: QV-8 SPOJNIK:24
+    2300672: QV-8 SPOJNIK:3
+    2300674: QV-8 SPOJNIK:4
+    2300676: QV-8 SPOJNIK:5
+    2300678: QV-8 SPOJNIK:6
+    2300680: QV-8 SPOJNIK:7
+    2300682: QV-8 SPOJNIK:8
+    2300684: QV-8 SPOJNIK:9
+    2300686: rocker_16
+    2300688: sm_tab_type1a_17
+    2300690: sm_tab_type1b_18
+    2300692: sm_tab_type2a_19
+    2300694: sm_tab_type2b_20
+    2300696: spot_10
+    2300698: spot_9
+    2300700: stamped_cond_11
+    2300702: switch_base_15
+    2300704: User Library-ABB_E93_32_Fuse_Holder:1
+    2300706: Vgrez1 v4:1
+    2300708: Wheel_adapter:1
+    2300710: Wheel_adapter:2
+    2300712: Wheel_adapter:3
+    2300714: Wheel_adapter:4
+    2300716: WR_J6_adapted_Standard_7
+    2300718: WR_J6_adapted_Standard_7 1
+    2300720: WR_J6_adapted_Standard_7 2
+    2300722: WR_J6_adapted_Standard_7 3
+    2300724: WR_J6_adapted_Standard_7 4
+    2300726: WR_J6_adapted_Standard_7 5
+    2300728: WR_J7_adapted_Standard_8
+    2300730: WR_J7_adapted_Standard_8 1
+    2300732: WR_J7_adapted_Standard_8 10
+    2300734: WR_J7_adapted_Standard_8 11
+    2300736: WR_J7_adapted_Standard_8 12
+    2300738: WR_J7_adapted_Standard_8 13
+    2300740: WR_J7_adapted_Standard_8 14
+    2300742: WR_J7_adapted_Standard_8 15
+    2300744: WR_J7_adapted_Standard_8 16
+    2300746: WR_J7_adapted_Standard_8 17
+    2300748: WR_J7_adapted_Standard_8 18
+    2300750: WR_J7_adapted_Standard_8 19
+    2300752: WR_J7_adapted_Standard_8 2
+    2300754: WR_J7_adapted_Standard_8 20
+    2300756: WR_J7_adapted_Standard_8 21
+    2300758: WR_J7_adapted_Standard_8 22
+    2300760: WR_J7_adapted_Standard_8 23
+    2300762: WR_J7_adapted_Standard_8 24
+    2300764: WR_J7_adapted_Standard_8 25
+    2300766: WR_J7_adapted_Standard_8 26
+    2300768: WR_J7_adapted_Standard_8 27
+    2300770: WR_J7_adapted_Standard_8 28
+    2300772: WR_J7_adapted_Standard_8 29
+    2300774: WR_J7_adapted_Standard_8 3
+    2300776: WR_J7_adapted_Standard_8 4
+    2300778: WR_J7_adapted_Standard_8 5
+    2300780: WR_J7_adapted_Standard_8 6
+    2300782: WR_J7_adapted_Standard_8 7
+    2300784: WR_J7_adapted_Standard_8 8
+    2300786: WR_J7_adapted_Standard_8 9
+    3300000: 2 TERMINAL CONNECTOR .25 SPACING
+    3300002: 2 TERMINAL CONNECTOR .25 SPACING:1
+    3300004: 2 TERMINAL CONNECTOR .25 SPACING:2
+    3300006: 2 TERMINAL CONNECTOR .4 SPACING
+    3300008: 2 TERMINAL CONNECTOR .4 SPACING:1
+    3300010: 8-32 x .250 PHL PAN HD
+    3300012: 8-32 x .250 PHL PAN HD:1
+    3300014: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1
+    3300016: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 1
+    3300018: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 10
+    3300020: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 11
+    3300022: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 12
+    3300024: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 13
+    3300026: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 14
+    3300028: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 2
+    3300030: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 3
+    3300032: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 4
+    3300034: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 5
+    3300036: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 6
+    3300038: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 7
+    3300040: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 8
+    3300042: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1 9
+    3300044: AH 8 PRITRDILEC FATH:1 1
+    3300046: AH 8 PRITRDILEC FATH:1 2
+    3300048: AH 8 PRITRDILEC FATH:10 1
+    3300050: AH 8 PRITRDILEC FATH:10 2
+    3300052: AH 8 PRITRDILEC FATH:11 1
+    3300054: AH 8 PRITRDILEC FATH:11 2
+    3300056: AH 8 PRITRDILEC FATH:12 1
+    3300058: AH 8 PRITRDILEC FATH:12 2
+    3300060: AH 8 PRITRDILEC FATH:13 1
+    3300062: AH 8 PRITRDILEC FATH:13 2
+    3300064: AH 8 PRITRDILEC FATH:14 1
+    3300066: AH 8 PRITRDILEC FATH:14 2
+    3300068: AH 8 PRITRDILEC FATH:15 1
+    3300070: AH 8 PRITRDILEC FATH:15 2
+    3300072: AH 8 PRITRDILEC FATH:16 1
+    3300074: AH 8 PRITRDILEC FATH:16 2
+    3300076: AH 8 PRITRDILEC FATH:17 1
+    3300078: AH 8 PRITRDILEC FATH:17 2
+    3300080: AH 8 PRITRDILEC FATH:18 1
+    3300082: AH 8 PRITRDILEC FATH:18 2
+    3300084: AH 8 PRITRDILEC FATH:19 1
+    3300086: AH 8 PRITRDILEC FATH:19 2
+    3300088: AH 8 PRITRDILEC FATH:2 1
+    3300090: AH 8 PRITRDILEC FATH:2 2
+    3300092: AH 8 PRITRDILEC FATH:20 1
+    3300094: AH 8 PRITRDILEC FATH:20 2
+    3300096: AH 8 PRITRDILEC FATH:21 1
+    3300098: AH 8 PRITRDILEC FATH:21 2
+    3300100: AH 8 PRITRDILEC FATH:3 1
+    3300102: AH 8 PRITRDILEC FATH:3 2
+    3300104: AH 8 PRITRDILEC FATH:4 1
+    3300106: AH 8 PRITRDILEC FATH:4 2
+    3300108: AH 8 PRITRDILEC FATH:5 1
+    3300110: AH 8 PRITRDILEC FATH:5 2
+    3300112: AH 8 PRITRDILEC FATH:6 1
+    3300114: AH 8 PRITRDILEC FATH:6 2
+    3300116: AH 8 PRITRDILEC FATH:7 1
+    3300118: AH 8 PRITRDILEC FATH:7 2
+    3300120: AH 8 PRITRDILEC FATH:8 1
+    3300122: AH 8 PRITRDILEC FATH:8 2
+    3300124: AH 8 PRITRDILEC FATH:9 1
+    3300126: AH 8 PRITRDILEC FATH:9 2
+    3300128: ALU_plosca_508x460x3mm:1
+    3300130: ALU_plosca_650x740x3mm:1
+    3300132: ALU_profil_22,5_X_180_900:1
+    3300134: ALU_profil_22,5_X_180_R40_L_900_L:1
+    3300136: ALU_profil_22,5_X_180_R40_L_900_R:1
+    3300138: ALU_profil_40_ X_40_L_200:1
+    3300140: ALU_profil_40_ X_40_L_200:2
+    3300142: ALU_profil_40_ X_40_L_200:3
+    3300144: ALU_profil_40_ X_40_L_200:4
+    3300146: ALU_profil_40_ X_40_L_200:5
+    3300148: ALU_profil_40_ X_40_L_200:6
+    3300150: ALU_profil_40_ X_40_L_600:1
+    3300152: ALU_profil_40_ X_40_L_600:2
+    3300154: ALU_profil_40_X_160_N_460:1
+    3300156: ALU_profil_40_X_160_N_460:2
+    3300158: ALU_profil_40_X_40_L_1N_460:1
+    3300160: ALU_profil_40_X_40_L_1N_460:2
+    3300162: ALU_profil_40_X_80_L_340:1
+    3300164: ALU_profil_40_X_80_L_340:2
+    3300166: ALU_profil_40_X_80_L_340:3
+    3300168: ALU_profil_40_X_80_L_340:4
+    3300170: ALU_profil_40_X_80_L_460:1
+    3300172: ALU_profil_40_X_80_L_740:1
+    3300174: ALU_profil_40_X_80_L_740:2
+    3300176: ALU_profil_40_X_80_L_820:1
+    3300178: ALU_profil_40_X_80_L_820:2
+    3300180: "ALU_profil_polkrozni_40_R80_90\xB0_730:1"
+    3300182: "ALU_profil_polkrozni_40_R80_90\xB0_730:2"
+    3300184: "ALU_profil_polkrozni_40_R80_90\xB0_730:3"
+    3300186: "ALU_profil_polkrozni_40_R80_90\xB0_730:4"
+    3300188: BA_J1_adapted_Standard_1
+    3300190: BA_J1_adapted_Standard_1 1
+    3300192: BA_J1_adapted_Standard_1 10
+    3300194: BA_J1_adapted_Standard_1 11
+    3300196: BA_J1_adapted_Standard_1 12
+    3300198: BA_J1_adapted_Standard_1 13
+    3300200: BA_J1_adapted_Standard_1 14
+    3300202: BA_J1_adapted_Standard_1 15
+    3300204: BA_J1_adapted_Standard_1 16
+    3300206: BA_J1_adapted_Standard_1 17
+    3300208: BA_J1_adapted_Standard_1 18
+    3300210: BA_J1_adapted_Standard_1 19
+    3300212: BA_J1_adapted_Standard_1 2
+    3300214: BA_J1_adapted_Standard_1 20
+    3300216: BA_J1_adapted_Standard_1 21
+    3300218: BA_J1_adapted_Standard_1 22
+    3300220: BA_J1_adapted_Standard_1 23
+    3300222: BA_J1_adapted_Standard_1 24
+    3300224: BA_J1_adapted_Standard_1 25
+    3300226: BA_J1_adapted_Standard_1 26
+    3300228: BA_J1_adapted_Standard_1 27
+    3300230: BA_J1_adapted_Standard_1 28
+    3300232: BA_J1_adapted_Standard_1 29
+    3300234: BA_J1_adapted_Standard_1 3
+    3300236: BA_J1_adapted_Standard_1 30
+    3300238: BA_J1_adapted_Standard_1 31
+    3300240: BA_J1_adapted_Standard_1 32
+    3300242: BA_J1_adapted_Standard_1 33
+    3300244: BA_J1_adapted_Standard_1 34
+    3300246: BA_J1_adapted_Standard_1 35
+    3300248: BA_J1_adapted_Standard_1 36
+    3300250: BA_J1_adapted_Standard_1 37
+    3300252: BA_J1_adapted_Standard_1 4
+    3300254: BA_J1_adapted_Standard_1 5
+    3300256: BA_J1_adapted_Standard_1 6
+    3300258: BA_J1_adapted_Standard_1 7
+    3300260: BA_J1_adapted_Standard_1 8
+    3300262: BA_J1_adapted_Standard_1 9
+    3300264: battery:1
+    3300266: Beckhoff_WPLE40:1
+    3300268: Beckhoff_WPLE40:2
+    3300270: Beckhoff_WPLE40:3
+    3300272: Beckhoff_WPLE40:4
+    3300274: blade_12_4 1
+    3300276: blade_12_4 2
+    3300278: blade_12_5 1
+    3300280: blade_12_5 2
+    3300282: blade_15_3 1
+    3300284: blade_15_3 2
+    3300286: BM040-VM_00:1
+    3300288: BM040-VM_00:1 1
+    3300290: BM040-VM_00:1 2
+    3300292: BM040-VM_00:1 3
+    3300294: BOSCH_REXROTH_PROFILE_20X20_6MM_T-SLOT-short:1
+    3300296: BOSCH_REXROTH_PROFILE_20X20_6MM_T-SLOT-short:2
+    3300298: BOSCH_REXROTH_PROFILE_20X20_6MM_T-SLOT:1
+    3300300: BOSCH_REXROTH_PROFILE_20X20_6MM_T-SLOT:2
+    3300302: correct_big_tab_12
+    3300304: correct_big_tab_13
+    3300306: correct_big_tab_14
+    3300308: CX5130-40:1 1
+    3300310: CX5130-40:1 2
+    3300312: DIN 6885-A3x3x12:1
+    3300314: DIN 6885-A3x3x12:1 1
+    3300316: DIN 6885-A3x3x12:1 2
+    3300318: DIN 6885-A3x3x12:1 3
+    3300320: DIN RAIL CLAMP
+    3300322: DIN SIN_WEIDMULLER_(360mm)-3:1
+    3300324: DIN SIN_WEIDMULLER_(460mm):1
+    3300326: dodatni_sklep:1
+    3300328: DPP480-48-1
+    3300330: E Stop Button:1 1
+    3300332: E Stop Button:1 2
+    3300334: E Stop Button:1 3
+    3300336: E-omarica-pokrovcek:1
+    3300338: E-omarica-pokrovcek:10
+    3300340: E-omarica-pokrovcek:11
+    3300342: E-omarica-pokrovcek:12
+    3300344: E-omarica-pokrovcek:13
+    3300346: E-omarica-pokrovcek:14
+    3300348: E-omarica-pokrovcek:15
+    3300350: E-omarica-pokrovcek:2
+    3300352: E-omarica-pokrovcek:3
+    3300354: E-omarica-pokrovcek:4
+    3300356: E-omarica-pokrovcek:5
+    3300358: E-omarica-pokrovcek:6
+    3300360: E-omarica-pokrovcek:7
+    3300362: E-omarica-pokrovcek:8
+    3300364: E-omarica-pokrovcek:9
+    3300366: E_omarica:1
+    3300368: Earth Leakage Circuit Breaker:1
+    3300370: EL12mm:1
+    3300372: EL12mm:2
+    3300374: EL12mmS:1
+    3300376: EL12mmS:2
+    3300378: EL24mm:1
+    3300380: franka_sp_plata
+    3300382: fuse-holder_6
+    3300384: fuse_7 1
+    3300386: fuse_7 2
+    3300388: fuse_7 3
+    3300390: fuse_clip_set_2 1
+    3300392: fuse_clip_set_2 2
+    3300394: Hager Breaker:1 1
+    3300396: Hager Breaker:1 2
+    3300398: Hager Breaker:2 1
+    3300400: Hager Breaker:2 2
+    3300402: Hager Breaker:3 1
+    3300404: Hager Breaker:3 2
+    3300406: Hager Breaker:4 1
+    3300408: Hager Breaker:4 2
+    3300410: Hager Breaker:5 1
+    3300412: Hager Breaker:5 2
+    3300414: HD12mm:1
+    3300416: HD24mm:1
+    3300418: HD24mm:2
+    3300420: HD24mm:3
+    3300422: HD24mm:4
+    3300424: ilpm_case_1
+    3300426: Intercontec-EEDC201NN00000805000_ohnen Sockel:1
+    3300428: Intercontec-EEDC201NN00000805000_ohnen Sockel:1 1
+    3300430: Intercontec-EEDC201NN00000805000_ohnen Sockel:1 2
+    3300432: Intercontec-EEDC201NN00000805000_ohnen Sockel:1 3
+    3300434: inverter
+    3300436: Kabelen kanal 60x40-400mm:1 1
+    3300438: Kabelen kanal 60x40-400mm:1 2
+    3300440: Kabelen kanal 60x40-400mm:2 1
+    3300442: Kabelen kanal 60x40-400mm:2 2
+    3300444: Kabelen kanal 80x40-60mm:1 1
+    3300446: Kabelen kanal 80x40-60mm:1 2
+    3300448: Kabelen kanal 80x40-60mm:2 1
+    3300450: Kabelen kanal 80x40-60mm:2 2
+    3300452: KOTNIK ALU 40 X 39 X 39:1
+    3300454: KOTNIK ALU 40 X 39 X 39:2
+    3300456: KOTNIK ALU 40 X 39 X 39:3
+    3300458: KOTNIK ALU 40 X 39 X 39:4
+    3300460: KOTNIK ALU 40 X 39 X 39:5
+    3300462: KOTNIK ALU 40 X 39 X 39:6
+    3300464: KOTNIK ALU 40 X 39 X 39:7
+    3300466: KOTNIK ALU 40 X 39 X 39:8
+    3300468: KOTNIK ALU 74 X 76 X 76:1
+    3300470: KOTNIK ALU 74 X 76 X 76:2
+    3300472: KOTNIK ALU 74 X 76 X 76:3
+    3300474: KOTNIK ALU 74 X 76 X 76:4
+    3300476: LA_J5J6_adapted_Standard_6
+    3300478: LA_J5J6_adapted_Standard_6 1
+    3300480: LA_J5J6_adapted_Standard_6 2
+    3300482: MecScaled:1
+    3300484: MecScaled:1 1
+    3300486: MecScaled:1 10
+    3300488: MecScaled:1 2
+    3300490: MecScaled:1 3
+    3300492: MecScaled:1 4
+    3300494: MecScaled:1 5
+    3300496: MecScaled:1 6
+    3300498: MecScaled:1 7
+    3300500: MecScaled:1 8
+    3300502: MecScaled:1 9
+    3300504: MecScaled:2
+    3300506: MecScaled:2 1
+    3300508: MecScaled:2 10
+    3300510: MecScaled:2 2
+    3300512: MecScaled:2 3
+    3300514: MecScaled:2 4
+    3300516: MecScaled:2 5
+    3300518: MecScaled:2 6
+    3300520: MecScaled:2 7
+    3300522: MecScaled:2 8
+    3300524: MecScaled:2 9
+    3300526: MecScaled:3
+    3300528: MecScaled:3 1
+    3300530: MecScaled:3 10
+    3300532: MecScaled:3 2
+    3300534: MecScaled:3 3
+    3300536: MecScaled:3 4
+    3300538: MecScaled:3 5
+    3300540: MecScaled:3 6
+    3300542: MecScaled:3 7
+    3300544: MecScaled:3 8
+    3300546: MecScaled:3 9
+    3300548: MecScaled:4
+    3300550: MecScaled:4 1
+    3300552: MecScaled:4 10
+    3300554: MecScaled:4 2
+    3300556: MecScaled:4 3
+    3300558: MecScaled:4 4
+    3300560: MecScaled:4 5
+    3300562: MecScaled:4 6
+    3300564: MecScaled:4 7
+    3300566: MecScaled:4 8
+    3300568: MecScaled:4 9
+    3300570: nosilo_sprednja_kolesa:1
+    3300572: Panda_controller
+    3300574: Panda_J2
+    3300576: Panda_J3
+    3300578: Panda_J4
+    3300580: Panda_J4_ClampingProtector1
+    3300582: Panda_J4_ClampingProtector2
+    3300584: Panda_J4_ElbowProtector
+    3300586: Panda_J5
+    3300588: Panda_J5_ClampingProtector1
+    3300590: Panda_J5_ClampingProtector2
+    3300592: Panda_J5_ElbowProtector
+    3300594: Panda_J6_Protector
+    3300596: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:1"
+    3300598: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:10"
+    3300600: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:11"
+    3300602: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:12"
+    3300604: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:13"
+    3300606: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:14"
+    3300608: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:15"
+    3300610: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:16"
+    3300612: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:17"
+    3300614: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:18"
+    3300616: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:19"
+    3300618: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:2"
+    3300620: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:20"
+    3300622: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:21"
+    3300624: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:3"
+    3300626: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:4"
+    3300628: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:5"
+    3300630: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:6"
+    3300632: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:7"
+    3300634: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:8"
+    3300636: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:9"
+    3300638: QV-8 SPOJNIK:1
+    3300640: QV-8 SPOJNIK:10
+    3300642: QV-8 SPOJNIK:11
+    3300644: QV-8 SPOJNIK:12
+    3300646: QV-8 SPOJNIK:13
+    3300648: QV-8 SPOJNIK:14
+    3300650: QV-8 SPOJNIK:15
+    3300652: QV-8 SPOJNIK:16
+    3300654: QV-8 SPOJNIK:17
+    3300656: QV-8 SPOJNIK:18
+    3300658: QV-8 SPOJNIK:19
+    3300660: QV-8 SPOJNIK:2
+    3300662: QV-8 SPOJNIK:20
+    3300664: QV-8 SPOJNIK:21
+    3300666: QV-8 SPOJNIK:22
+    3300668: QV-8 SPOJNIK:23
+    3300670: QV-8 SPOJNIK:24
+    3300672: QV-8 SPOJNIK:3
+    3300674: QV-8 SPOJNIK:4
+    3300676: QV-8 SPOJNIK:5
+    3300678: QV-8 SPOJNIK:6
+    3300680: QV-8 SPOJNIK:7
+    3300682: QV-8 SPOJNIK:8
+    3300684: QV-8 SPOJNIK:9
+    3300686: rocker_16
+    3300688: sm_tab_type1a_17
+    3300690: sm_tab_type1b_18
+    3300692: sm_tab_type2a_19
+    3300694: sm_tab_type2b_20
+    3300696: spot_10
+    3300698: spot_9
+    3300700: stamped_cond_11
+    3300702: switch_base_15
+    3300704: User Library-ABB_E93_32_Fuse_Holder:1
+    3300706: Vgrez1 v4:1
+    3300708: Wheel_adapter:1
+    3300710: Wheel_adapter:2
+    3300712: Wheel_adapter:3
+    3300714: Wheel_adapter:4
+    3300716: WR_J6_adapted_Standard_7
+    3300718: WR_J6_adapted_Standard_7 1
+    3300720: WR_J6_adapted_Standard_7 2
+    3300722: WR_J6_adapted_Standard_7 3
+    3300724: WR_J6_adapted_Standard_7 4
+    3300726: WR_J6_adapted_Standard_7 5
+    3300728: WR_J7_adapted_Standard_8
+    3300730: WR_J7_adapted_Standard_8 1
+    3300732: WR_J7_adapted_Standard_8 10
+    3300734: WR_J7_adapted_Standard_8 11
+    3300736: WR_J7_adapted_Standard_8 12
+    3300738: WR_J7_adapted_Standard_8 13
+    3300740: WR_J7_adapted_Standard_8 14
+    3300742: WR_J7_adapted_Standard_8 15
+    3300744: WR_J7_adapted_Standard_8 16
+    3300746: WR_J7_adapted_Standard_8 17
+    3300748: WR_J7_adapted_Standard_8 18
+    3300750: WR_J7_adapted_Standard_8 19
+    3300752: WR_J7_adapted_Standard_8 2
+    3300754: WR_J7_adapted_Standard_8 20
+    3300756: WR_J7_adapted_Standard_8 21
+    3300758: WR_J7_adapted_Standard_8 22
+    3300760: WR_J7_adapted_Standard_8 23
+    3300762: WR_J7_adapted_Standard_8 24
+    3300764: WR_J7_adapted_Standard_8 25
+    3300766: WR_J7_adapted_Standard_8 26
+    3300768: WR_J7_adapted_Standard_8 27
+    3300770: WR_J7_adapted_Standard_8 28
+    3300772: WR_J7_adapted_Standard_8 29
+    3300774: WR_J7_adapted_Standard_8 3
+    3300776: WR_J7_adapted_Standard_8 4
+    3300778: WR_J7_adapted_Standard_8 5
+    3300780: WR_J7_adapted_Standard_8 6
+    3300782: WR_J7_adapted_Standard_8 7
+    3300784: WR_J7_adapted_Standard_8 8
+    3300786: WR_J7_adapted_Standard_8 9
+    4300000: "ALU_profil_polkrozni_40_R80_90\xB0_730:4"
+    4300002: "ALU_profil_polkrozni_40_R80_90\xB0_730:3"
+    4300004: "ALU_profil_polkrozni_40_R80_90\xB0_730:2"
+    4300006: "ALU_profil_polkrozni_40_R80_90\xB0_730:1"
+    4300008: ALU_profil_40_X_160_N_460:2
+    4300010: ALU_profil_40_X_160_N_460:1
+    4300012: ALU_profil_40_X_80_L_820:2
+    4300014: ALU_profil_40_X_80_L_820:1
+    4300016: ALU_profil_40_X_80_L_740:2
+    4300018: ALU_profil_40_X_80_L_740:1
+    4300020: ALU_profil_40_X_80_L_460:1
+    4300022: ALU_profil_40_X_80_L_340:4
+    4300024: ALU_profil_40_X_80_L_340:3
+    4300026: ALU_profil_40_X_80_L_340:2
+    4300028: ALU_profil_40_X_80_L_340:1
+    4300030: ALU_profil_40_X_40_L_1N_460:2
+    4300032: ALU_profil_40_X_40_L_1N_460:1
+    4300034: ALU_profil_40_ X_40_L_600:2
+    4300036: ALU_profil_40_ X_40_L_600:1
+    4300038: ALU_profil_40_ X_40_L_200:6
+    4300040: ALU_profil_40_ X_40_L_200:5
+    4300042: ALU_profil_40_ X_40_L_200:4
+    4300044: ALU_profil_40_ X_40_L_200:3
+    4300046: ALU_profil_40_ X_40_L_200:2
+    4300048: ALU_profil_40_ X_40_L_200:1
+    4300050: ALU_profil_22,5_X_180_R40_L_900_R:1
+    4300052: ALU_profil_22,5_X_180_R40_L_900_L:1
+    4300054: ALU_profil_22,5_X_180_900:1
+    4300056: ALU_plosca_650x740x3mm:1
+    4300058: ALU_plosca_508x460x3mm:1
+    4300060: battery:1
+    4300062: BOSCH_REXROTH_PROFILE_20X20_6MM_T-SLOT:1
+    4300064: BOSCH_REXROTH_PROFILE_20X20_6MM_T-SLOT:2
+    4300066: BOSCH_REXROTH_PROFILE_20X20_6MM_T-SLOT-short:1
+    4300068: BOSCH_REXROTH_PROFILE_20X20_6MM_T-SLOT-short:2
+    4300070: dodatni_sklep:1
+    4300072: nosilo_sprednja_kolesa:1
+    4300074: Intercontec-EEDC201NN00000805000_ohnen Sockel:1
+    4300076: DIN 6885-A3x3x12:1
+    4300078: BM040-VM_00:1
+    4300080: Intercontec-EEDC201NN00000805000_ohnen Sockel:1
+    4300082: DIN 6885-A3x3x12:1
+    4300084: BM040-VM_00:1
+    4300086: Intercontec-EEDC201NN00000805000_ohnen Sockel:1
+    4300088: DIN 6885-A3x3x12:1
+    4300090: BM040-VM_00:1
+    4300092: Intercontec-EEDC201NN00000805000_ohnen Sockel:1
+    4300094: DIN 6885-A3x3x12:1
+    4300096: BM040-VM_00:1
+    4300098: Wheel_adapter:4
+    4300100: Wheel_adapter:3
+    4300102: Wheel_adapter:2
+    4300104: Wheel_adapter:1
+    4300106: Beckhoff_WPLE40:4
+    4300108: Beckhoff_WPLE40:3
+    4300110: Beckhoff_WPLE40:2
+    4300112: Beckhoff_WPLE40:1
+    4300114: MecScaled:3
+    4300116: MecScaled:3
+    4300118: MecScaled:3
+    4300120: MecScaled:3
+    4300122: MecScaled:3
+    4300124: MecScaled:3
+    4300126: MecScaled:3
+    4300128: MecScaled:3
+    4300130: MecScaled:3
+    4300132: MecScaled:3
+    4300134: MecScaled:3
+    4300136: MecScaled:4
+    4300138: MecScaled:4
+    4300140: MecScaled:4
+    4300142: MecScaled:4
+    4300144: MecScaled:4
+    4300146: MecScaled:4
+    4300148: MecScaled:4
+    4300150: MecScaled:4
+    4300152: MecScaled:4
+    4300154: MecScaled:4
+    4300156: MecScaled:4
+    4300158: MecScaled:2
+    4300160: MecScaled:2
+    4300162: MecScaled:2
+    4300164: MecScaled:2
+    4300166: MecScaled:2
+    4300168: MecScaled:2
+    4300170: MecScaled:2
+    4300172: MecScaled:2
+    4300174: MecScaled:2
+    4300176: MecScaled:2
+    4300178: MecScaled:2
+    4300180: MecScaled:1
+    4300182: MecScaled:1
+    4300184: MecScaled:1
+    4300186: MecScaled:1
+    4300188: MecScaled:1
+    4300190: MecScaled:1
+    4300192: MecScaled:1
+    4300194: MecScaled:1
+    4300196: MecScaled:1
+    4300198: MecScaled:1
+    4300200: MecScaled:1
+    4300202: EL24mm:1
+    4300204: EL12mmS:2
+    4300206: EL12mmS:1
+    4300208: EL12mm:2
+    4300210: EL12mm:1
+    4300212: HD24mm:4
+    4300214: HD24mm:3
+    4300216: HD24mm:2
+    4300218: HD24mm:1
+    4300220: HD12mm:1
+    4300222: CX5130-40:1
+    4300224: CX5130-40:1
+    4300226: E-omarica-pokrovcek:15
+    4300228: E-omarica-pokrovcek:14
+    4300230: E-omarica-pokrovcek:13
+    4300232: E-omarica-pokrovcek:12
+    4300234: E-omarica-pokrovcek:11
+    4300236: E-omarica-pokrovcek:10
+    4300238: E-omarica-pokrovcek:9
+    4300240: E-omarica-pokrovcek:8
+    4300242: E-omarica-pokrovcek:7
+    4300244: E-omarica-pokrovcek:6
+    4300246: E-omarica-pokrovcek:5
+    4300248: E-omarica-pokrovcek:4
+    4300250: E-omarica-pokrovcek:3
+    4300252: E-omarica-pokrovcek:2
+    4300254: E-omarica-pokrovcek:1
+    4300256: Earth Leakage Circuit Breaker:1
+    4300258: Hager Breaker:5
+    4300260: Hager Breaker:5
+    4300262: Hager Breaker:4
+    4300264: Hager Breaker:4
+    4300266: Hager Breaker:3
+    4300268: Hager Breaker:3
+    4300270: Hager Breaker:2
+    4300272: Hager Breaker:2
+    4300274: Hager Breaker:1
+    4300276: Hager Breaker:1
+    4300278: E_omarica:1
+    4300280: User Library-ABB_E93_32_Fuse_Holder:1
+    4300282: Panda_controller
+    4300284: AH 8 PRITRDILEC FATH:1
+    4300286: AH 8 PRITRDILEC FATH:1
+    4300288: AH 8 PRITRDILEC FATH:2
+    4300290: AH 8 PRITRDILEC FATH:2
+    4300292: AH 8 PRITRDILEC FATH:3
+    4300294: AH 8 PRITRDILEC FATH:3
+    4300296: AH 8 PRITRDILEC FATH:4
+    4300298: AH 8 PRITRDILEC FATH:4
+    4300300: AH 8 PRITRDILEC FATH:5
+    4300302: AH 8 PRITRDILEC FATH:5
+    4300304: AH 8 PRITRDILEC FATH:6
+    4300306: AH 8 PRITRDILEC FATH:6
+    4300308: AH 8 PRITRDILEC FATH:7
+    4300310: AH 8 PRITRDILEC FATH:7
+    4300312: AH 8 PRITRDILEC FATH:8
+    4300314: AH 8 PRITRDILEC FATH:8
+    4300316: AH 8 PRITRDILEC FATH:9
+    4300318: AH 8 PRITRDILEC FATH:9
+    4300320: AH 8 PRITRDILEC FATH:10
+    4300322: AH 8 PRITRDILEC FATH:10
+    4300324: AH 8 PRITRDILEC FATH:11
+    4300326: AH 8 PRITRDILEC FATH:11
+    4300328: AH 8 PRITRDILEC FATH:14
+    4300330: AH 8 PRITRDILEC FATH:14
+    4300332: AH 8 PRITRDILEC FATH:12
+    4300334: AH 8 PRITRDILEC FATH:12
+    4300336: AH 8 PRITRDILEC FATH:13
+    4300338: AH 8 PRITRDILEC FATH:13
+    4300340: AH 8 PRITRDILEC FATH:15
+    4300342: AH 8 PRITRDILEC FATH:15
+    4300344: AH 8 PRITRDILEC FATH:16
+    4300346: AH 8 PRITRDILEC FATH:16
+    4300348: AH 8 PRITRDILEC FATH:17
+    4300350: AH 8 PRITRDILEC FATH:17
+    4300352: AH 8 PRITRDILEC FATH:18
+    4300354: AH 8 PRITRDILEC FATH:18
+    4300356: AH 8 PRITRDILEC FATH:19
+    4300358: AH 8 PRITRDILEC FATH:19
+    4300360: AH 8 PRITRDILEC FATH:20
+    4300362: AH 8 PRITRDILEC FATH:20
+    4300364: AH 8 PRITRDILEC FATH:21
+    4300366: AH 8 PRITRDILEC FATH:21
+    4300368: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:21"
+    4300370: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:20"
+    4300372: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:19"
+    4300374: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:18"
+    4300376: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:17"
+    4300378: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:16"
+    4300380: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:15"
+    4300382: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:14"
+    4300384: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:13"
+    4300386: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:12"
+    4300388: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:11"
+    4300390: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:10"
+    4300392: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:9"
+    4300394: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:8"
+    4300396: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:7"
+    4300398: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:6"
+    4300400: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:5"
+    4300402: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:4"
+    4300404: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:3"
+    4300406: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:2"
+    4300408: "PLO\u0160\u010CICA DISTAN\u010CNA ZA AH 5 mm:1"
+    4300410: QV-8 SPOJNIK:1
+    4300412: QV-8 SPOJNIK:2
+    4300414: QV-8 SPOJNIK:3
+    4300416: QV-8 SPOJNIK:4
+    4300418: QV-8 SPOJNIK:5
+    4300420: QV-8 SPOJNIK:6
+    4300422: QV-8 SPOJNIK:7
+    4300424: QV-8 SPOJNIK:8
+    4300426: QV-8 SPOJNIK:9
+    4300428: QV-8 SPOJNIK:10
+    4300430: QV-8 SPOJNIK:11
+    4300432: QV-8 SPOJNIK:12
+    4300434: QV-8 SPOJNIK:13
+    4300436: QV-8 SPOJNIK:14
+    4300438: QV-8 SPOJNIK:15
+    4300440: QV-8 SPOJNIK:16
+    4300442: QV-8 SPOJNIK:17
+    4300444: QV-8 SPOJNIK:18
+    4300446: QV-8 SPOJNIK:19
+    4300448: QV-8 SPOJNIK:20
+    4300450: QV-8 SPOJNIK:21
+    4300452: QV-8 SPOJNIK:22
+    4300454: QV-8 SPOJNIK:23
+    4300456: QV-8 SPOJNIK:24
+    4300458: DIN SIN_WEIDMULLER_(460mm):1
+    4300460: DIN SIN_WEIDMULLER_(360mm)-3:1
+    4300462: KOTNIK ALU 74 X 76 X 76:4
+    4300464: KOTNIK ALU 74 X 76 X 76:3
+    4300466: KOTNIK ALU 74 X 76 X 76:2
+    4300468: KOTNIK ALU 74 X 76 X 76:1
+    4300470: KOTNIK ALU 40 X 39 X 39:8
+    4300472: KOTNIK ALU 40 X 39 X 39:7
+    4300474: KOTNIK ALU 40 X 39 X 39:6
+    4300476: KOTNIK ALU 40 X 39 X 39:5
+    4300478: KOTNIK ALU 40 X 39 X 39:4
+    4300480: KOTNIK ALU 40 X 39 X 39:3
+    4300482: KOTNIK ALU 40 X 39 X 39:2
+    4300484: KOTNIK ALU 40 X 39 X 39:1
+    4300486: E Stop Button:1
+    4300488: E Stop Button:1
+    4300490: E Stop Button:1
+    4300492: ilpm_case_1
+    4300494: fuse_clip_set_2
+    4300496: fuse_clip_set_2
+    4300498: blade_15_3
+    4300500: blade_15_3
+    4300502: blade_12_4
+    4300504: blade_12_4
+    4300506: blade_12_5
+    4300508: blade_12_5
+    4300510: fuse-holder_6
+    4300512: fuse_7
+    4300514: fuse_7
+    4300516: fuse_7
+    4300518: switch_base_15
+    4300520: rocker_16
+    4300522: sm_tab_type1a_17
+    4300524: sm_tab_type1b_18
+    4300526: sm_tab_type2a_19
+    4300528: sm_tab_type2b_20
+    4300530: spot_9
+    4300532: spot_10
+    4300534: stamped_cond_11
+    4300536: correct_big_tab_12
+    4300538: correct_big_tab_13
+    4300540: correct_big_tab_14
+    4300542: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1
+    4300544: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1
+    4300546: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1
+    4300548: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1
+    4300550: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1
+    4300552: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1
+    4300554: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1
+    4300556: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1
+    4300558: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1
+    4300560: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1
+    4300562: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1
+    4300564: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1
+    4300566: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1
+    4300568: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1
+    4300570: _5@5_;NG0B5;L ETI CS 10 53 U 1-0-2 (A5@_-G5@=K9):1
+    4300572: Vgrez1 v4:1
+    4300574: Kabelen kanal 80x40-60mm:1
+    4300576: Kabelen kanal 80x40-60mm:1
+    4300578: Kabelen kanal 60x40-400mm:2
+    4300580: Kabelen kanal 60x40-400mm:2
+    4300582: Kabelen kanal 60x40-400mm:1
+    4300584: Kabelen kanal 60x40-400mm:1
+    4300586: Kabelen kanal 80x40-60mm:2
+    4300588: Kabelen kanal 80x40-60mm:2
+    4300590: DPP480-48-1
+    4300592: DIN RAIL CLAMP
+    4300594: 8-32 x .250 PHL PAN HD
+    4300596: 8-32 x .250 PHL PAN HD:1
+    4300598: 2 TERMINAL CONNECTOR .25 SPACING
+    4300600: 2 TERMINAL CONNECTOR .25 SPACING:1
+    4300602: 2 TERMINAL CONNECTOR .25 SPACING:2
+    4300604: 2 TERMINAL CONNECTOR .4 SPACING
+    4300606: 2 TERMINAL CONNECTOR .4 SPACING:1
+    4300608: franka_sp_plata
+    4300610: BA_J1_adapted_Standard_1
+    4300612: BA_J1_adapted_Standard_1
+    4300614: BA_J1_adapted_Standard_1
+    4300616: BA_J1_adapted_Standard_1
+    4300618: BA_J1_adapted_Standard_1
+    4300620: BA_J1_adapted_Standard_1
+    4300622: BA_J1_adapted_Standard_1
+    4300624: BA_J1_adapted_Standard_1
+    4300626: BA_J1_adapted_Standard_1
+    4300628: BA_J1_adapted_Standard_1
+    4300630: BA_J1_adapted_Standard_1
+    4300632: BA_J1_adapted_Standard_1
+    4300634: BA_J1_adapted_Standard_1
+    4300636: BA_J1_adapted_Standard_1
+    4300638: BA_J1_adapted_Standard_1
+    4300640: BA_J1_adapted_Standard_1
+    4300642: BA_J1_adapted_Standard_1
+    4300644: BA_J1_adapted_Standard_1
+    4300646: BA_J1_adapted_Standard_1
+    4300648: BA_J1_adapted_Standard_1
+    4300650: BA_J1_adapted_Standard_1
+    4300652: BA_J1_adapted_Standard_1
+    4300654: BA_J1_adapted_Standard_1
+    4300656: BA_J1_adapted_Standard_1
+    4300658: BA_J1_adapted_Standard_1
+    4300660: BA_J1_adapted_Standard_1
+    4300662: BA_J1_adapted_Standard_1
+    4300664: BA_J1_adapted_Standard_1
+    4300666: BA_J1_adapted_Standard_1
+    4300668: BA_J1_adapted_Standard_1
+    4300670: BA_J1_adapted_Standard_1
+    4300672: BA_J1_adapted_Standard_1
+    4300674: BA_J1_adapted_Standard_1
+    4300676: BA_J1_adapted_Standard_1
+    4300678: BA_J1_adapted_Standard_1
+    4300680: BA_J1_adapted_Standard_1
+    4300682: BA_J1_adapted_Standard_1
+    4300684: BA_J1_adapted_Standard_1
+    4300686: Panda_J2
+    4300688: Panda_J3
+    4300690: Panda_J4
+    4300692: Panda_J4_ElbowProtector
+    4300694: Panda_J4_ClampingProtector2
+    4300696: Panda_J4_ClampingProtector1
+    4300698: Panda_J5
+    4300700: Panda_J5_ElbowProtector
+    4300702: Panda_J5_ClampingProtector1
+    4300704: Panda_J5_ClampingProtector2
+    4300706: LA_J5J6_adapted_Standard_6
+    4300708: LA_J5J6_adapted_Standard_6
+    4300710: LA_J5J6_adapted_Standard_6
+    4300712: Panda_J6_Protector
+    4300714: WR_J6_adapted_Standard_7
+    4300716: WR_J6_adapted_Standard_7
+    4300718: WR_J6_adapted_Standard_7
+    4300720: WR_J6_adapted_Standard_7
+    4300722: WR_J6_adapted_Standard_7
+    4300724: WR_J6_adapted_Standard_7
+    4300726: WR_J7_adapted_Standard_8
+    4300728: WR_J7_adapted_Standard_8
+    4300730: WR_J7_adapted_Standard_8
+    4300732: WR_J7_adapted_Standard_8
+    4300734: WR_J7_adapted_Standard_8
+    4300736: WR_J7_adapted_Standard_8
+    4300738: WR_J7_adapted_Standard_8
+    4300740: WR_J7_adapted_Standard_8
+    4300742: WR_J7_adapted_Standard_8
+    4300744: WR_J7_adapted_Standard_8
+    4300746: WR_J7_adapted_Standard_8
+    4300748: WR_J7_adapted_Standard_8
+    4300750: WR_J7_adapted_Standard_8
+    4300752: WR_J7_adapted_Standard_8
+    4300754: WR_J7_adapted_Standard_8
+    4300756: WR_J7_adapted_Standard_8
+    4300758: WR_J7_adapted_Standard_8
+    4300760: WR_J7_adapted_Standard_8
+    4300762: WR_J7_adapted_Standard_8
+    4300764: WR_J7_adapted_Standard_8
+    4300766: WR_J7_adapted_Standard_8
+    4300768: WR_J7_adapted_Standard_8
+    4300770: WR_J7_adapted_Standard_8
+    4300772: WR_J7_adapted_Standard_8
+    4300774: WR_J7_adapted_Standard_8
+    4300776: WR_J7_adapted_Standard_8
+    4300778: WR_J7_adapted_Standard_8
+    4300780: WR_J7_adapted_Standard_8
+    4300782: WR_J7_adapted_Standard_8
+    4300784: WR_J7_adapted_Standard_8
+    4300786: inverter
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
