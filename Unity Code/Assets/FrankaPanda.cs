@@ -63,8 +63,7 @@ public class FrankaPanda : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //close the program on escape key
-        if (Input.GetKeyDown(KeyCode.Escape))
+        //close the program on escape keya        if (Input.GetKeyDown(KeyCode.Escape))
         {
             Application.Quit();
         }
