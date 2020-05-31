@@ -1,6 +1,6 @@
 Win64
 PlayerPath?
-D:/FE Leto 1/Robotski vid Project/New folder/FrankaPanda.exe
+C:/School/Robotski Vid/Robotski-vid-Project/Unity Built2/FrankaPanda.exe
 SceneListBegin?
 Assets/Scenes/SampleScene.unity
 SceneListEnd?
