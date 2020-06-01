@@ -23,7 +23,7 @@ public class CameraSwitch : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKey(KeyCode.C) && frameUpdateCounter == 0)
+        if (Input.GetKeyDown(KeyCode.C) && frameUpdateCounter == 0)
         {
             cameras[0].enabled = !cameras[0].enabled;
             cameras[1].enabled = !cameras[1].enabled;
