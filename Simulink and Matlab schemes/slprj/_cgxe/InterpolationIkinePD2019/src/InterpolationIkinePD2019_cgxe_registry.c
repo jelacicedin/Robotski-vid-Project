@@ -84,10 +84,10 @@ static int cgxe_process_get_checksums(int nlhs, mxArray* plhs[], int nrhs, const
   {
     mxArray* mxMakefileChksum = mxCreateDoubleMatrix(1, 4, mxREAL);
     double* checksumData = (double*) mxGetData(mxMakefileChksum);
-    checksumData[0] = 1877078713;
-    checksumData[1] = 4252780603;
-    checksumData[2] = 525828214;
-    checksumData[3] = 3865335929;
+    checksumData[0] = 411807214;
+    checksumData[1] = 3099498244;
+    checksumData[2] = 4253101515;
+    checksumData[3] = 1196399191;
     mxSetField(mxChecksum, 0, "makefile", mxMakefileChksum);
   }
 

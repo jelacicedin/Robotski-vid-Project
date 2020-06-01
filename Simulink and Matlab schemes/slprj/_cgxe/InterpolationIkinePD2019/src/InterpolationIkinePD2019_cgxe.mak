@@ -10,7 +10,7 @@ MODULE_SRCS 	= m_IeSKkqIJwqCfAF7PBwcYjD.c
 MODEL_SRC	= InterpolationIkinePD2019_cgxe.c
 MODEL_REG = InterpolationIkinePD2019_cgxe_registry.c
 MAKEFILE    = InterpolationIkinePD2019_cgxe.mak
-MATLAB_ROOT	= F:\Program Files\MATLAB\R2019b
+MATLAB_ROOT	= F:\Matlab2019b
 BUILDARGS   =
 
 #--------------------------- Tool Specifications ------------------------------
@@ -30,9 +30,9 @@ LIBCMD = lib.exe
 USER_INCLUDES   =  /I "D:\fe leto 1\robotski vid project\simulink and matlab schemes\slprj\_cgxe\interpolationikinepd2019\src" /I "D:\fe leto 1\robotski vid project\simulink and matlab schemes" /I "D:\FE Leto 1\Robotski vid Project\Simulink and Matlab schemes\slprj\_cprj"
 
 MLSL_INCLUDES     = \
-    /I "F:\Program Files\MATLAB\R2019b\extern\include" \
-    /I "F:\Program Files\MATLAB\R2019b\simulink\include" \
-    /I "F:\Program Files\MATLAB\R2019b\rtw\c\src"
+    /I "F:\Matlab2019b\extern\include" \
+    /I "F:\Matlab2019b\simulink\include" \
+    /I "F:\Matlab2019b\rtw\c\src"
 COMPILER_INCLUDES = /I "$(MSVC_ROOT)\include"
 
 THIRD_PARTY_INCLUDES   =  /I "D:\FE Leto 1\Robotski vid Project\Simulink and Matlab schemes\slprj\_cgxe\InterpolationIkinePD2019\src" /I "D:\FE Leto 1\Robotski vid Project\Simulink and Matlab schemes"
@@ -44,14 +44,14 @@ LDFLAGS = /nologo /dll /MANIFEST /OPT:NOREF /export:mexFunction /export:mexfiler
 
 USER_OBJS =
 
-AUX_SRCS = F:\Program Files\MATLAB\R2019b\extern\version\c_mexapi_version.c  
+AUX_SRCS = F:\MATLAB~1\extern\version\c_mexapi_version.c  
 
 REQ_SRCS  = $(MODEL_SRC) $(MODEL_REG) $(MODULE_SRCS) $(AUX_SRCS)
 REQ_OBJS = $(REQ_SRCS:.cpp=.obj)
 REQ_OBJS2 = $(REQ_OBJS:.c=.obj)
 OBJS = $(REQ_OBJS2) $(USER_OBJS) $(AUX_ABS_OBJS)
 OBJLIST_FILE = InterpolationIkinePD2019_cgxe.mol
-TMWLIB = "F:\Program Files\MATLAB\R2019b\extern\lib\win64\microsoft\libmx.lib" "F:\Program Files\MATLAB\R2019b\extern\lib\win64\microsoft\libmex.lib" "F:\Program Files\MATLAB\R2019b\extern\lib\win64\microsoft\libmat.lib" "F:\Program Files\MATLAB\R2019b\extern\lib\win64\microsoft\libfixedpoint.lib" "F:\Program Files\MATLAB\R2019b\extern\lib\win64\microsoft\libut.lib" "F:\Program Files\MATLAB\R2019b\extern\lib\win64\microsoft\libmwmathutil.lib" "F:\Program Files\MATLAB\R2019b\extern\lib\win64\microsoft\libemlrt.lib" "F:\Program Files\MATLAB\R2019b\extern\lib\win64\microsoft\libmwcgxert.lib" "F:\Program Files\MATLAB\R2019b\extern\lib\win64\microsoft\libmwslexec_simbridge.lib" "F:\Program Files\MATLAB\R2019b\lib\win64\libmwipp.lib" "F:\Program Files\MATLAB\R2019b\extern\lib\win64\microsoft\libcovrt.lib" "F:\Program Files\MATLAB\R2019b\extern\lib\win64\microsoft\libmwsl_sfcn_cov_bridge.lib" 
+TMWLIB = "F:\Matlab2019b\extern\lib\win64\microsoft\libmx.lib" "F:\Matlab2019b\extern\lib\win64\microsoft\libmex.lib" "F:\Matlab2019b\extern\lib\win64\microsoft\libmat.lib" "F:\Matlab2019b\extern\lib\win64\microsoft\libfixedpoint.lib" "F:\Matlab2019b\extern\lib\win64\microsoft\libut.lib" "F:\Matlab2019b\extern\lib\win64\microsoft\libmwmathutil.lib" "F:\Matlab2019b\extern\lib\win64\microsoft\libemlrt.lib" "F:\Matlab2019b\extern\lib\win64\microsoft\libmwcgxert.lib" "F:\Matlab2019b\extern\lib\win64\microsoft\libmwslexec_simbridge.lib" "F:\Matlab2019b\lib\win64\libmwipp.lib" "F:\Matlab2019b\extern\lib\win64\microsoft\libcovrt.lib" "F:\Matlab2019b\extern\lib\win64\microsoft\libmwsl_sfcn_cov_bridge.lib" 
 THIRD_PARTY_LIBS = 
 
 #--------------------------------- Rules --------------------------------------
