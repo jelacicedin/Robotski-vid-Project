@@ -1,4 +1,4 @@
-def getPetriDish(iPath):
+def getPetriDish(iImage):
     import cv2
     import matplotlib.pyplot as plt
     import detObjFunc as RV
@@ -8,9 +8,7 @@ def getPetriDish(iPath):
     draw=0
     minR=200
     #load and grayscale
-    tempImage=Image.open(iPath)
-    iImage=np.array(tempImage)
-
+    
     grImage=cv2.cvtColor(iImage,cv2.COLOR_RGB2GRAY)
     if draw:
         RV.showImage(iImage,"Original Image")
