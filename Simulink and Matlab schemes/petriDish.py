@@ -1,11 +1,11 @@
-def getPetriDish(iImage):
+def getPetriDish(iImage,draw=0):
+    #set draw=1 to see intermediate debug steps
     import cv2
     import matplotlib.pyplot as plt
     import detObjFunc as RV
     from PIL import Image
     import numpy as np
     #var init
-    draw=0                        #when not debugging the function use draw=0
     minR=50
     maxR=300
     #grayscale and gauss
