@@ -5,17 +5,18 @@ def getPetriDish(iImage):
     from PIL import Image
     import numpy as np
     #var init
-    draw=0
-    minR=200
-    #load and grayscale
-    
+    draw=0                        #when not debugging the function use draw=0
+    minR=50
+    maxR=300
+    #grayscale and gauss
     grImage=cv2.cvtColor(iImage,cv2.COLOR_RGB2GRAY)
+    grImage=cv2.GaussianBlur(grImage, (21,21),0 );
     if draw:
         RV.showImage(iImage,"Original Image")
         #RV.showImage(grImage,"Gray Image")
 
     #hough circles
-    foundVar=cv2.HoughCircles(grImage,cv2.HOUGH_GRADIENT,1.2,minR)
+    foundVar=cv2.HoughCircles(grImage,cv2.HOUGH_GRADIENT,1,50,param1=50,param2=50,minRadius=minR,maxRadius=maxR)
 
     if foundVar is not None:
         foundVar=np.round(foundVar[0,:]).astype("int")
@@ -26,12 +27,13 @@ def getPetriDish(iImage):
     for (x,y,r) in foundVar:
         if r==rMax:
             iMax=i;
-            drImage=cv2.circle(drImage,(x,y),r,(0,0,255),2)
+            drImage=cv2.circle(drImage,(x,y),r,(127,0,255),8)
         else:
-            drImage=cv2.circle(drImage,(x,y),r,(255,0,0),2)
+            drImage=cv2.circle(drImage,(x,y),r,(0,127,255),3)
         i=i+1
     if draw:
         RV.showImage(drImage,"Found circles")
         print(iMax)
-        print("xCoord= "+str(foundVar[0,iMax])+" \nyCoord= "+str(foundVar[1,iMax])+" \nradius= "+str(foundVar[2,iMax]))
-    return (foundVar[0,iMax],foundVar[1,iMax],foundVar[2,iMax])
+        print(np.shape(foundVar))
+        print("xCoord= "+str(foundVar[iMax,0])+" \nyCoord= "+str(foundVar[iMax,1])+" \nradius= "+str(foundVar[iMax,2]))
+    return (foundVar[iMax,0],foundVar[iMax,1],foundVar[iMax,2])
