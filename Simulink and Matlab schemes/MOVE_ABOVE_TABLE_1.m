@@ -9,6 +9,7 @@ mod2 = py.importlib.import_module('petriDish');
 
 %% Forming robot
 
+
 robot = importrobot('panda2.urdf');
 robot.DataFormat = 'column';
 
@@ -30,9 +31,9 @@ th3 = [0; 0];
 
 [xn, yn, zn, ~,~,~] = fixedInterpolationOperational(x,y,z, th1, th2, th3, runForDuration);
 
-%run('InterpolationIkinePD2019.slx')
+run('InterpolationIkinePD2019.slx')
 
-%pause(30);          % Take photo on spacebar
+%% Take photo on spacebar
 
 
 

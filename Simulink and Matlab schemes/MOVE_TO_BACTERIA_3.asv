@@ -13,9 +13,6 @@ coords = [];
 for i = 1:2:length(data)-1
     coords = [coords; data(i) data(i+1)];
 end
-
-runForDuration = 10*length(coords);
-
 x_bact = [];
 y_bact = [];
 
@@ -23,20 +20,15 @@ x = [x_petri];   % conf for table center
 y = [y_petri];
 z = [0.2];
 
-for k = 1:length(coords)
-    i = coords(k,1);
-    j = coords(k,2);
+for i = 1:length(coords)
+    i = coords(i,1);
+    j = coords(i,2);
     
     x_t = x_petri+0.1-0.2/(1448-529)*(i-529);
+    x_bact = [x_bact; x_t];
     
     y_t = y_petri+0.1-0.2/(126-1041)*(j-1041);
+    y_bact = [y_bact; x_t];
     
-    x = [x; x_t; x_t; x_t];
-    y = [y; y_t; y_t; y_t];
-    z = [z; 0.2; 0; 0.2];
+    x = [x; x_]
 end
-
-[xn, yn, zn, ~,~,~] = fixedInterpolationOperational(x,y,z, zeros(length(x),1), zeros(length(x),1),zeros(length(x),1), runForDuration);
-
-%% Run the simulation
-
