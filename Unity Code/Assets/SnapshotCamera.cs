@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System.IO;
 
 [RequireComponent(typeof(Camera))]
 public class SnapshotCamera : MonoBehaviour
@@ -13,9 +14,12 @@ public class SnapshotCamera : MonoBehaviour
 
     int counter;
 
+    int picCounter;
+
     void Start()
     {
         counter = 0;
+        picCounter = 0;
 
         snapCam = new Camera();
         snapCam = Camera.allCameras[2];
@@ -65,6 +69,8 @@ public class SnapshotCamera : MonoBehaviour
             string fileName = SnapshotName();
             System.IO.File.WriteAllBytes(fileName, bytes);
 
+            picCounter++;
+
             Debug.Log("Snapshot from end effector camera taken");
 
             
@@ -73,10 +79,8 @@ public class SnapshotCamera : MonoBehaviour
 
     private string SnapshotName()
     {
-        return string.Format("{0}/Snapshots/snap_{1}x{2}_{3}.png",
-            Application.dataPath,
-            resWidth,
-            resHeight,
-            DateTime.Now.ToString("yyyy-MM-dd_HH-mm-ss"));
+        return string.Format("{0}/Simulink and Matlab schemes/Snaps/snap_{1}.png",
+            Directory.GetParent(Directory.GetCurrentDirectory().ToString()).ToString(),
+            picCounter) ;
     }
 }
