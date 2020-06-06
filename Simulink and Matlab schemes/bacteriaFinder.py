@@ -1,9 +1,8 @@
 def findBacteria(iImage,draw=0):
     #set draw=1 to see intermediate debug steps
-    draw=0
-    minR=50
-    maxR=300
-    dishThickness=10
+    minR=380
+    maxR=500
+    dishThickness=45
     import detObjFunc as RV
     import cv2
     import matplotlib.pyplot as plt
@@ -26,6 +25,7 @@ def findBacteria(iImage,draw=0):
         drImage=cv2.cvtColor(drImage,cv2.COLOR_BGR2RGB)
         RV.showImage(drImage,"found petri dish")
     #remove everything outside the dish on the red channel
+    tImage=cv2.cvtColor(iImage[:,:,0:3],cv2.COLOR_RGB2GRAY)
     tImage=cv2.GaussianBlur(iImage[:,:,0], (15,15),0 );
     for x in range(tImage.shape[1]):
         for y in range(tImage.shape[0]):
@@ -35,7 +35,7 @@ def findBacteria(iImage,draw=0):
         RV.showImage(tImage,"removed background and thresholded")
     #threshold and mask
     (t1,tmp1)=cv2.threshold(tImage,140,1,cv2.THRESH_BINARY)
-    (t2,tmp2)=cv2.threshold(tImage,230,1,cv2.THRESH_BINARY)
+    (t2,tmp2)=cv2.threshold(tImage,215,1,cv2.THRESH_BINARY)
     mask=255*np.multiply(tmp1,(np.ones_like(tmp2)-tmp2))
     if draw:
         RV.showImage(255*tmp1,"thr1")
@@ -47,10 +47,10 @@ def findBacteria(iImage,draw=0):
     kernel[0,2] = 0.25
     kernel[2,0] = 0.25
     kernel[2,2] = 0.25
-    mask = cv2.erode(mask,kernel,iterations = 5)
+    mask = cv2.erode(mask,kernel,iterations = 7)
     if draw:
         RV.showImage(mask,"eroded")
-    mask = cv2.dilate(mask,kernel,iterations = 3)
+    mask = cv2.dilate(mask,kernel,iterations = 15)
     if draw:
         RV.showImage(mask,"dilated, end mask")
     #label individual objects
