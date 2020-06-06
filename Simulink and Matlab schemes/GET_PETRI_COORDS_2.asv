@@ -1,0 +1,12 @@
+%% Get petri dish coordinates in image
+
+image = py.detObjFunc.loadImage('Snaps/snap_0.png');
+coords = py.petriDish.getPetriDish(image);
+
+
+i_dish = float(coords{1});
+j_dish = float(coords{2});
+r_dish = int64a(coords{3}); 
+
+x_petri = 1473/1645.71428571429 - 1/1645.71428571429*i_dish;
+y_petri = j_dish/1710-872/1710;
